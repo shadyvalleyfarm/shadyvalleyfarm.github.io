@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-groups: navigation
+group: navigation
 sitemap:
   priority: 0.7
   changefreq: daily
