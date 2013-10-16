@@ -25,5 +25,9 @@ to others in the herd.
 ### Photos
 
 <img src="/images/goats/Shady_Valley_Buddy/1.jpg" alt="Image of Shady Valley Buddy" class="pic"/>
+<hr>
+<img src="/images/goats/Shady_Valley_Buddy/2.jpg" alt="Image of Shady Valley Buddy" class="pic"/>
+<hr>
+<img src="/images/goats/Shady_Valley_Buddy/3.jpg" alt="Image of Shady Valley Buddy" class="pic"/>
 
 

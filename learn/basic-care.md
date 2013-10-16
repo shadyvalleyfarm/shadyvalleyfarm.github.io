@@ -8,6 +8,12 @@ sitemap:
   lastmod: 2013-10-15T01:10:30-05:00
 ---
 
+# Basic Care
+
+This advice is based on our experience with Nigerian Dwarf goats but should
+be applicable to others. Every situation is different and you may need to
+adapt the following to your own needs and your herd choices.
+
 1 **Shelter**: Goats need shelter from the elements. They dislike
 rain and will seek shelter on the first drop. Shelter should be able
 to keep a goat dry and out of cold winds and out of direct sunlight.
