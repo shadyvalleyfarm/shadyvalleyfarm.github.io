@@ -20,8 +20,8 @@ the parents for pedigree purposes.
 
 * [Critter Grove Sweet Pea](/goats/Critter-Grove-Sweet-Pea)
 * [Critter Grove Brie](/goats/Critter-Grove-Brie)
-* Shady Valley Sadie - Information coming soon
-* Shady Valley Samantha - Information coming soon
+* [Shady Valley Sadie](/goats/Shady-Valley-Sadie)
+* [Shady Valley Samantha](/goats/Shady-Valley-Samantha)
 
 ## Wethers
 
