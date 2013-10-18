@@ -21,7 +21,7 @@ two parents is where the double letters come in.
 
 This chart shows the likelihood of eye color based on the genetics of the parent
 |Parent 1|Parent2|Blue Eyed (BB)|Blue Eyed but with brown (Bb)|Brown Eyed (no blue) (bb)|
-|+++|+++|+++|+++|+++|
+|:---|:---|:---|:---|:---|
 |BB|BB|100%|0%|0%|
 |BB|Bb|50%|50%|0%|
 |BB|bb|0%|100%|0%|

@@ -25,7 +25,7 @@ October 14, 2013 - This portion of the web site will be growing over the next fe
 Please check back often for updates. 
 
  * [Basic Care](/learn/basic-care)
- * [Eye Color](/learn/eye-color)
+ * [Eye Color](/learn/eye-colors)
  * Diet - Coming Soon
  * Poisonous Plants - Coming Soon
 
