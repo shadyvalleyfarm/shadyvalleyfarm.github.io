@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Learn
-group: navigation
+#group: navigation
 sitemap:
   priority: 0.7
   changefreq: daily
