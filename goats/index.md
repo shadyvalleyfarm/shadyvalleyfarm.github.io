@@ -16,19 +16,18 @@ Our small, but growing herd is listed below. We will keep past and
 present goats listed here for reference. When possible we link to
 the parents for pedigree purposes.
 
-## Does Currently On Farm
+## Does (Nigerian and Pygmy)
 
 * [Critter Grove Sweet Pea](/goats/Critter-Grove-Sweet-Pea)
 * [Critter Grove Brie](/goats/Critter-Grove-Brie)
 * [Shady Valley Sadie](/goats/Shady-Valley-Sadie)
 * [Shady Valley Samantha](/goats/Shady-Valley-Samantha)
 
+## Bucks
+
+* RHV Mizzou Mystique (Details coming soon)
+
 ## Wethers
 
-* [Shady Valley Buddy](/goats/Shady-Valley-Buddy)
-
-## Does No Longer On Farm
-
-* Shady Valley Penny (Sold)
-* Shady Valley Prue (Sold)
-* Shady Valley Sabrina (Deceased)
+* [(Critter Grove)Buddy](/goats/Buddy)
+* (RHV)Amigo
