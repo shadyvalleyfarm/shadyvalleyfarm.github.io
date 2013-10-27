@@ -29,4 +29,8 @@ We intend to sell goats for breeding, dairy, and pet purposes. Over the
 past year we have been expanding our own knowledge and intend on sharing
 that with the internet community through a special section on this web site.
 
+## Our Mission
 
+Our mission is to raise happy, healthy, friendly, and overall wonderful
+goats. We aim to improve all breeds we raise through thoughtful breedings and
+education of ourselves and others

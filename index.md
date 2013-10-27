@@ -20,9 +20,13 @@ and goats on our little farm. We have pygmy and nigerian dwarf goats.
 Our most recent additions are registered nigerian dwarfs and we will
 be offering their offspring for sale in 2014.
 
-## Our Mission
+## Blog
 
-Our mission is to raise happy, healthy, friendly, and overall wonderful
-goats. We aim to improve all breeds we raise through thoughtful breedings and
-education of ourselves and others.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
