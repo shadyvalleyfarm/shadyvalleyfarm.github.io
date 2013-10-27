@@ -22,6 +22,7 @@ the parents for pedigree purposes.
 * [Critter Grove Brie](/goats/Critter-Grove-Brie)
 * [Shady Valley Sadie](/goats/Shady-Valley-Sadie)
 * [Shady Valley Samantha](/goats/Shady-Valley-Samantha)
+* Dragonfly T Vermeil (Details coming soon)
 
 ## Bucks
 
