@@ -7,7 +7,9 @@ sitemap:
 ---
 {% include JB/setup %}
 
-# As Winter approaches we've been busy getting the farm ready. At the same
+## Winter Is Coming
+
+As Winter approaches we've been busy getting the farm ready. At the same
 time I've been dedicating time to our online presence. I've decided to put
 a blog up on the site to share thoughts, ideas, announcements, and events.
 
@@ -19,6 +21,6 @@ personalities.  I'll get information and pics of them posted soon.
 
 I've also created a Facebook page for the Farm. It'll probably have more quick
 updates and pics than this site so you can "like" the page and stay updated
-on news around the farm.  Like us at [https://www.facebook.com/shadyvalleyfarm]
+on news around the farm.  Like us at [https://www.facebook.com/shadyvalleyfarm](https://www.facebook.com/shadyvalleyfarm)
 
 
