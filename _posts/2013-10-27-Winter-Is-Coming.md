@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: yes
 sitemap:
   priority: 0.7
   changefreq: daily

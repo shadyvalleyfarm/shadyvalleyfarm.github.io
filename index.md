@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+comments: yes
 sitemap:
   priority: 0.7
   changefreq: daily
