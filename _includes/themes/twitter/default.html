@@ -67,7 +67,9 @@
 
       <hr>
       <footer>
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+        <p>
+          <div class="fb-like" data-href="{{ site.production_url }}{{ page.url }}" data-width="20" data-height="10" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="true" data-send="true"></div>
+          &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
         </p>
       </footer>
     </div>
