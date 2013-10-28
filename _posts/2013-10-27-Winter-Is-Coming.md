@@ -24,4 +24,7 @@ I've also created a Facebook page for the Farm. It'll probably have more quick
 updates and pics than this site so you can "like" the page and stay updated
 on news around the farm.  Like us at [https://www.facebook.com/shadyvalleyfarm](https://www.facebook.com/shadyvalleyfarm)
 
+I've added Facebook Social plugin to the blog posts and a Like button at the 
+bottom of each page.  You can use the Send message button to send as a message
+via Facebook
 
