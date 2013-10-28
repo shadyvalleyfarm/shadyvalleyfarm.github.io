@@ -15,12 +15,6 @@ goes back into the 1980s but there was a long break in there with no
 goats in our lives.  We restarted the hobby back in 2012 and have
 recently began turning it into a commercial operation. 
 
-Our mission is to raise high quality dairy goats. We are focusing more
-on the smaller breeds such as Nigerian Dwarf because of the growing
-popularity as a "backyard breed" and the ease of care. In the future
-we may expand into the larger breeds but for the near future we will
-focus on the smaller breeds. 
-
 We are located in Missouri outside the small town of Fredericktown. We
 are on small acreage and have long term plans to get settled in on
 larger land.
@@ -33,4 +27,4 @@ that with the internet community through a special section on this web site.
 
 Our mission is to raise happy, healthy, friendly, and overall wonderful
 goats. We aim to improve all breeds we raise through thoughtful breedings and
-education of ourselves and others
+education of ourselves and others.
