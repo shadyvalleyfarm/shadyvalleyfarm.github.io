@@ -26,7 +26,7 @@ the parents for pedigree purposes.
 
 ## Bucks
 
-* RHV Mizzou Mystique (Details coming soon)
+* [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique)
 
 ## Wethers
 
