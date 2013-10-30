@@ -29,5 +29,5 @@ especailly since it does not do much at this time.
 
 ### Photos
 
-Check out the photos on facebook. I will put some on this page soon
+<img src="/images/goats/RHV_Mizzou_Mystique/1.jpg" alt="Image of RHV Mizzou Mystique" class="pic"/>
 
