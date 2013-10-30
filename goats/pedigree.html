@@ -5,13 +5,27 @@ text {
     font-size: 7pt;
 }
 
+.male {
+    font-weight: bold;
+    color: blue;
+    fill: blue;
+    background-color: white;
+}
+
+.female {
+    font-weight: bold;
+    color: red;
+    fill: red;
+    background-color: white;
+}
+
 .name {
     font-weight: bold;
 }
 
 .about {
     fill: #777;
-      font-size: smaller;
+    font-size: 6.5pt;
 }
 
 .link {
@@ -58,11 +72,17 @@ d3.json("/json/RHV_Mizzou_Mystique.json", function(json) {
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
 
   node.append("text")
-      .attr("class", "name")
+      .attr("class", function(d) { return d.gender; })
       .attr("x", 8)
       .attr("y", -6)
       .text(function(d) { return d.name; });
 
+  node.append("text")
+        .attr("x", 8)
+        .attr("y", 8)
+        .attr("dy", ".71em")
+        .attr("class", "about lifespan")
+        .text(function(d) { return d.born; });
 });
 
 function elbow(d, i) {
