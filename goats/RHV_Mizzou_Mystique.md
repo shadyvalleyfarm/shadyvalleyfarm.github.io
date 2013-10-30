@@ -18,7 +18,8 @@ pedigree: yes
 ### Description
 
 Mizzou comes to us from Red Horse Valley and will be our sole herd sire for the next yearish. 
-Check out his pedigree to learn more. I will write a full bio of him soon. 
+Check out his pedigree below or the [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001630035)
+to learn more. I will write a full bio of him soon. 
 
 ### Pedigree
 
