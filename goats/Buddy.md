@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Shady Valley Buddy
+title: (Critter Grove) Buddy
 group: goats
 ---
 
-## Shady Valley Buddy
+## (Critter Grove) Buddy
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
