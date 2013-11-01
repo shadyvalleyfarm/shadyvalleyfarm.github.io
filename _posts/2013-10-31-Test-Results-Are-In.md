@@ -19,7 +19,7 @@ tags:
 
 ## The test results are in
 
-**{{ page.date | date_to_string }}** - I decided to have the entire herd retested when Mizzou, Mei, and Amigo come
+**{{ page.date | date_to_string }}** - I decided to have the entire herd retested when Mizzou, Mei, and Amigo came
 to live with us.  Fecal tests were good only a few minor problems which have
 been addressed and today I got a call from my vet that they all tested
 negative for CAE, CL, and Johne's Disease. 
