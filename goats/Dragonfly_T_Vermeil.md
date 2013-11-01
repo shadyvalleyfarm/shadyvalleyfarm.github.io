@@ -25,7 +25,7 @@ Check out her pedigree below or the [ADGA Genetics Profile](http://www.adgagenet
 ### Pedigree
 
 I am experimenting with a pedigree widget. This is the first draft. You could call this "beta" 
-especailly since it does not do much at this time.
+especially since it does not do much at this time.
 
 <iframe src="/goats/pedigrees/Dragonfly_T_Vermeil.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 

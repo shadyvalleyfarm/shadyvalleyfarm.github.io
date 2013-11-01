@@ -7,9 +7,8 @@ sitemap:
   changefreq: daily
   lastmod: 2013-10-15T01:10:30-05:00
 ---
-<img src="/images/goats/Group/1.jpg" alt="Goats " class="pic"/>
 
-<hr>
+<img src="/images/goats/Group/1.jpg" alt="Goats " class="pic"/>
 
 Our small, but growing herd is listed below. We will keep past and 
 present goats listed here for reference. When possible we link to
