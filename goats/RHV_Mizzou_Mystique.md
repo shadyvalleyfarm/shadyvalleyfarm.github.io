@@ -34,6 +34,10 @@ especailly since it does not do much at this time.
 
 <iframe src="/goats/pedigrees/RHV_Mizzou_Mystique.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
+### History
+
+* October 21, 2013 - Tested negative for CAE, CL, and Johne's Disease
+
 ### Photos
 
 <img src="/images/goats/RHV_Mizzou_Mystique/1.jpg" alt="Image of RHV Mizzou Mystique" class="pic"/>

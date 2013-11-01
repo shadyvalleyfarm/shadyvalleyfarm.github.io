@@ -14,9 +14,11 @@ pedigree: yes
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|No
+|**Kidding Schedule**|RHV Mizzou Mystique - Spring 2014
 
 ### Description
 
+Mei (pronounced like May) is a new comer to our herd. 
 Check out her pedigree below or the [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001547724)
 
 ### Pedigree
@@ -25,6 +27,11 @@ I am experimenting with a pedigree widget. This is the first draft. You could ca
 especailly since it does not do much at this time.
 
 <iframe src="/goats/pedigrees/Dragonfly_T_Vermeil.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+### History
+
+* October 21, 2013 - Tested negative for CAE, CL, and Johne's Disease
+
 
 ### Photos
 

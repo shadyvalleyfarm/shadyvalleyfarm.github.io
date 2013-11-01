@@ -24,6 +24,12 @@ considered companion animals to our herd. Their dam became ill when they
 were 7 weeks old and died a short time later.  They are great companion
 animals and are friends to everyone they meet.  They are not registerable. 
 
+
+### History
+
+* October 21, 2013 - Tested negative for CAE, CL, and Johne's Disease
+
+
 ### Photos
 
 <img src="/images/goats/Shady_Valley_Samantha/1.jpg" alt="Image of Shady Valley Samantha" class="pic"/>

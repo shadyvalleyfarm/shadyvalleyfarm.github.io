@@ -23,6 +23,11 @@ as Sweet Pea(Brie's Dam is Sweet Pea's grandmother) and we have already found
 personality similarities with the two.  Brie is slowly getting darker and more
 brown in her coat than when she was born and is a very beautiful doe. 
 
+### History
+
+* October 21, 2013 - Tested negative for CAE, CL, and Johne's Disease
+
+
 ### Photos
 
 <img src="/images/goats/Critter_Grove_Brie/1.jpg" alt="Image of Critter Grove Brie" class="pic"/>

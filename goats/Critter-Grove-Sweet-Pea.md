@@ -28,6 +28,10 @@ play with the others.
 
 We plan to breed her soon and have high hopes for her kids.
 
+### History
+
+* October 21, 2013 - Tested negative for CAE, CL, and Johne's Disease
+
 ### Photos
 
 <img src="/images/goats/Critter_Grove_Sweet_Pea/Critter_Grove_Sweet_Pea_1.jpg" alt="Image of Critter Grove Sweet Pea" class="pic"/>
