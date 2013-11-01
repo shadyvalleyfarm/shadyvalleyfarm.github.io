@@ -16,7 +16,7 @@ tag: Critter_Grove_Sweet_Pea
 |**Dam:**|[Critter Grove Zodiac's Ruth](http://www.crittergroveranch.com/does.html)
 |**Sire:**|[Critter Grove Gambler](http://www.crittergroveranch.com/bucks.html)
 |**Gender:**|Doe
-|**Kidding Schedule:**|2014
+|**Kidding Schedule:**|[RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) - Spring 2014
 |**For Sale:**|No
 
 ### Description

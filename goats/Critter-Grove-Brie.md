@@ -16,7 +16,7 @@ tag: Critter_Grove_Brie
 |**Dam:**|[Prairie Wood DGM Electra Jazz](http://www.crittergroveranch.com/does.html)
 |**Sire:**|[Critter Grove Gambler](http://www.crittergroveranch.com/bucks.html)
 |**Gender:**|Doe
-|**Kidding Schedule:**|Late 2014
+|**Kidding Schedule:**|[RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) - Late 2014
 |**For Sale**|No
 
 Brie is one of the newest additions to the herd. She comes from the same family

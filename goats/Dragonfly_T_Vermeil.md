@@ -15,7 +15,7 @@ tag: Dragonfly_T_Vermeil
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|No
-|**Kidding Schedule**|RHV Mizzou Mystique - Spring 2014
+|**Kidding Schedule**|[RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) - Spring 2014
 
 ### Description
 
