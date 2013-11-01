@@ -32,8 +32,8 @@ The following where included in the tests
 * [Shady Valley Sadie](/goats/Shady-Valley-Sadie)
 * [Shady Valley Samantha](/goats/Shady-Valley-Samantha)
 * [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique)
-* [(Critter Grove)Buddy](/goats/Buddy)
-* (RHV)Amigo
+* [(Critter Grove) Buddy](/goats/Buddy)
+* [(RHV) Amigo](/goats/Amigo)
 
 All new arrivals in the future will be tested before being placed with the herd.
 
