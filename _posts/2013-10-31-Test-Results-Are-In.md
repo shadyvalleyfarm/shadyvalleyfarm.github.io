@@ -37,6 +37,9 @@ The following where included in the tests
 
 All new arrivals in the future will be tested before being placed with the herd.
 
+I am waiting for the paper results from my vet. Once I have those I'll scan and
+post online.
+
 I realize that those can be a bit controversial among goat people. Since my
 herd is my retirement plan and I get great amount of enjoyment out of them
 I prefer to test and be sure that they are all healthy.  In a future post
