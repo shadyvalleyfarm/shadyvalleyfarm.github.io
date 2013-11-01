@@ -18,11 +18,11 @@ the parents for pedigree purposes.
 
 ## Does (Nigerian and Pygmy)
 
+* [Dragonfly T Vermeil](/goats/Dragonfly_T_Vermeil)
 * [Critter Grove Sweet Pea](/goats/Critter-Grove-Sweet-Pea)
 * [Critter Grove Brie](/goats/Critter-Grove-Brie)
 * [Shady Valley Sadie](/goats/Shady-Valley-Sadie)
 * [Shady Valley Samantha](/goats/Shady-Valley-Samantha)
-* Dragonfly T Vermeil (Details coming soon)
 
 ## Bucks
 
