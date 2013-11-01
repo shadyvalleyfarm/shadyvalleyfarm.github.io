@@ -28,3 +28,10 @@ that with the internet community through a special section on this web site.
 Our mission is to raise happy, healthy, friendly, and overall wonderful
 goats. We aim to improve all breeds we raise through thoughtful breedings and
 education of ourselves and others.
+
+## Further Reading
+
+* [Lou the (honorary) CEO](/goats/lou-the-ceo) - Read the story of the farm's beagle
+* [Herd Health](/about/herd-health) - Read about the importance of our herd's health and the procedures we have to keep everyone healthy
+* [Visiting The Farm](/about/visiting-the-farm) - Read about what to expect when visiting the farm to pick up your animal
+
