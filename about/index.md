@@ -31,7 +31,7 @@ education of ourselves and others.
 
 ## Further Reading
 
-* [Lou the (honorary) CEO](/goats/lou-the-ceo) - Read the story of the farm's beagle
+* [Lou the (honorary) CEO](/about/lou-the-ceo) - Read the story of the farm's beagle
 * [Herd Health](/about/herd-health) - Read about the importance of our herd's health and the procedures we have to keep everyone healthy
 * [Visiting The Farm](/about/visiting-the-farm) - Read about what to expect when visiting the farm to pick up your animal
 

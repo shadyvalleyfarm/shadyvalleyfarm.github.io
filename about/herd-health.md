@@ -25,7 +25,7 @@ All new arrivals(except kids born on the farm) are tested for CAE, CL, and Johne
 within 72 hours of arrival if not prior to arrival. They are placed in designated quarantine
 areas and we practice bio security with them. This means that we wash hands, change shoes,
 clothes, after interacting with new arrivals. The quarantine area is located away from other
-goats New arrivals are observed and kept in quarantine for up to 2 to 4 weeks, depending on 
+goats New arrivals are observed and kept in quarantine for 2 to 4 weeks, depending on 
 their origin.  We attempt to purchase new comers in pairs or more from the same herd so that
 they will not be lonely.  
 
