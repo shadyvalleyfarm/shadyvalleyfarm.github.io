@@ -32,4 +32,4 @@ the parents for pedigree purposes.
 ## Wethers
 
 * [(Critter Grove)Buddy](/goats/Buddy)
-* (RHV)Amigo
+* [(RHV) Amigo](/goats/Amigo)

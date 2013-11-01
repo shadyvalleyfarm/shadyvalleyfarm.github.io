@@ -2,6 +2,7 @@
 layout: default
 title: Shady Valley Sadie
 group: goats
+tag: Sadie
 ---
 
 ## Shady Valley Sadie
@@ -24,10 +25,17 @@ considered companion animals to our herd. Their dam became ill when they
 were 7 weeks old and died a short time later.  They are great companion
 animals and are friends to everyone they meet.  They are not registerable. 
 
-### History
+### Blogs about Sadie
 
-* October 21, 2013 - Tested negative for CAE, CL, and Johne's Disease
-
+<ul>
+  {% for post in site.posts %}
+    {% for tag in post.tags %}
+      {% if tag == page.tag %}
+        <li><a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
 
 ### Photos
 
