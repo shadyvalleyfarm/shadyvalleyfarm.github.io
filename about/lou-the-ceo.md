@@ -13,7 +13,7 @@ sitemap:
 
 Lou is a beagle who has the honorary title of CEO. Lou showed up at my office door on November
 1st, 2003 with a gun being held to his head.  Well not literally but I was told he was mine
-if I wanted him or he'd be shot becuase at 6 months old he was too fat and wasn't good
+if I wanted him or he'd be shot because at 6 months old he was too fat and wasn't good
 merchandise for the breeder to sell.  At the time I really didn't need another dog in my life 
 but I didn't want him to be shot. He weighed 80lbs, his belly hit the ground, his breathing
 sounded like Darth Vader's and he had bad teeth.  I put him on a better food, took him for 
