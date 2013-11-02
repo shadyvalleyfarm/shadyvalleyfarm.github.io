@@ -24,7 +24,7 @@ as Sweet Pea(Brie's Dam is Sweet Pea's grandmother) and we have already found
 personality similarities with the two.  Brie is slowly getting darker and more
 brown in her coat than when she was born and is a very beautiful doe. 
 
-### Blogs about Brie
+### Blog posts about Brie
 
 <ul>
   {% for post in site.posts %}

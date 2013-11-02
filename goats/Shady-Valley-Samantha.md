@@ -11,7 +11,7 @@ tag: Samantha
 |**Breed:**|Pygmy
 |**Date of Birth:**|October 4th, 2012
 |**Eye Color:**|Brown
-|**Color Description:**|White Bucksin
+|**Color Description:**|White Buckskin
 |**Registered:**|No
 |**Dam:**|Shady Valley Sabrina
 |**Sire:**|Unknown
@@ -23,9 +23,9 @@ tag: Samantha
 Samantha is the sister to [Sadie](/goats/Shady-Valley-Sadie) and both are
 considered companion animals to our herd. Their dam became ill when they
 were 7 weeks old and died a short time later.  They are great companion
-animals and are friends to everyone they meet.  They are not registerable. 
+animals and are friends to everyone they meet.  They are not register-able. 
 
-### Blogs about Samantha
+### Blog posts about Samantha
 
 <ul>
   {% for post in site.posts %}

@@ -14,6 +14,9 @@ Our small, but growing herd is listed below. We will keep past and
 present goats listed here for reference. When possible we link to
 the parents for pedigree purposes.
 
+* [Kidding Schedule](/goats/kidding-schedule)
+* [For Sale](/goats/for-sale)
+
 ## Does - Nigerian
 
 * [Dragonfly T Vermeil](/goats/Dragonfly_T_Vermeil)
@@ -22,8 +25,8 @@ the parents for pedigree purposes.
 
 ## Does - Pygmy
 
-* [Shady Valley Sadie](/goats/Shady-Valley-Sadie)
-* [Shady Valley Samantha](/goats/Shady-Valley-Samantha)
+* [(Shady Valley) Sadie](/goats/Shady-Valley-Sadie)
+* [(Shady Valley) Samantha](/goats/Shady-Valley-Samantha)
 
 ## Bucks
 
@@ -31,5 +34,7 @@ the parents for pedigree purposes.
 
 ## Wethers
 
-* [(Critter Grove)Buddy](/goats/Buddy)
+* [(Critter Grove) Buddy](/goats/Buddy)
 * [(RHV) Amigo](/goats/Amigo)
+
+Animals with herd names in (parenthesis) are unregistered. The herd name is provided to show the origin of the goat

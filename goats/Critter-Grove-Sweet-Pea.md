@@ -11,7 +11,7 @@ tag: Critter_Grove_Sweet_Pea
 |**Breed:**|Nigerian Dwarf
 |**Date of Birth:**|December 10, 2012
 |**Eye Color:**|Blue
-|**Color Description:**|Silver Bucksin
+|**Color Description:**|Silver Buckskin
 |**Registered:**|Pending
 |**Dam:**|[Critter Grove Zodiac's Ruth](http://www.crittergroveranch.com/does.html)
 |**Sire:**|[Critter Grove Gambler](http://www.crittergroveranch.com/bucks.html)
@@ -23,13 +23,13 @@ tag: Critter_Grove_Sweet_Pea
 
 Sweet Pea is a very appropriate name for this girl. She is calm and loves to
 spend time with humans. She does tend to get a bit jealous but shows it in
-a non agreesive way. She will gently nudge you to let you know she is near
+a non aggressive way. She will gently nudge you to let you know she is near
 and ready to be petted.  When she is not trying to eat up attention she will
 play with the others. 
 
 We plan to breed her soon and have high hopes for her kids.
 
-### Blogs about Sweet Pea
+### Blog posts about Sweet Pea
 
 <ul>
   {% for post in site.posts %}

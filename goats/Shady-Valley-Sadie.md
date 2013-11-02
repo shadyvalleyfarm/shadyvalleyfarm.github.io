@@ -5,7 +5,7 @@ group: goats
 tag: Sadie
 ---
 
-## Shady Valley Sadie
+## (Shady Valley) Sadie
 | | |
 |:---|:---
 |**Breed:**|Pygmy
@@ -23,9 +23,9 @@ tag: Sadie
 Sadie is the sister to [Samantha](/goats/Shady-Valley-Samantha) and both are
 considered companion animals to our herd. Their dam became ill when they
 were 7 weeks old and died a short time later.  They are great companion
-animals and are friends to everyone they meet.  They are not registerable. 
+animals and are friends to everyone they meet.  They are not register-able. 
 
-### Blogs about Sadie
+### Blog posts about Sadie
 
 <ul>
   {% for post in site.posts %}

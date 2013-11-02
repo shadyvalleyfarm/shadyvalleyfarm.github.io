@@ -30,7 +30,7 @@ especially since it does not do much at this time.
 
 <iframe src="/goats/pedigrees/Dragonfly_T_Vermeil.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-### Blogs about Mei
+### Blog posts about Mei
 
 <ul>
   {% for post in site.posts %}

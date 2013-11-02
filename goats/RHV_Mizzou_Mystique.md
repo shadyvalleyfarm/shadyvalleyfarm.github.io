@@ -35,7 +35,7 @@ especially since it does not do much at this time.
 
 <iframe src="/goats/pedigrees/RHV_Mizzou_Mystique.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-### Blogs about Mizzou
+### Blog posts about Mizzou
 
 <ul>
   {% for post in site.posts %}
