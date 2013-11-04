@@ -35,7 +35,8 @@ The following where included in the tests
 * [(Critter Grove) Buddy](/goats/Buddy)
 * [(RHV) Amigo](/goats/Amigo)
 
-All new arrivals in the future will be tested before being placed with the herd.
+The previous whole herd tests were a year ago but I've expanded a lot since then. All new arrivals are tested 
+individually before being placed with the herd. I plan to continue the once a year whole herd testing. 
 
 I am waiting for the paper results from my vet. Once I have those I'll scan and
 post online.
