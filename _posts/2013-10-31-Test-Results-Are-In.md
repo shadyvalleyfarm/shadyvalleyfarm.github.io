@@ -73,5 +73,8 @@ include some links below
 Here's more information on CL from Washington State University [http://www.vetmed.wsu.edu/depts_waddl/FAQ/cl.aspx](Caseous Lymphodenitis
 of sheep and goats)
 
+And some more
 
+ * [http://goat-link.com/content/view/101/#.Unb143VDulg](CL on Goat-link.com) - Warning: Graphic photos
+ * [http://www.cvhs.okstate.edu/index.php?option=com_content&view=article&id=242:my-goat-was-recently-diagnosed-with-caseous-lymphadenitis-what-is-this-and-is-it-serious&catid=29:food-animal-questions&Itemid=258](Article on CL from Oklahoma State)
 
