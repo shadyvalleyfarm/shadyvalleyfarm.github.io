@@ -21,7 +21,10 @@ the parents for pedigree purposes.
 
 * [Dragonfly T Vermeil](/goats/Dragonfly_T_Vermeil)
 * [Critter Grove Sweet Pea](/goats/Critter-Grove-Sweet-Pea)
+* [RHV RR D'Arcy](/goats/RHV_RR_DArcy)
+* [RHV SCHR Hope on a Rope](/goats/RHV_SCHR_Hope_on_a_Rope)
 * [Critter Grove Brie](/goats/Critter-Grove-Brie)
+
 
 ## Does - Pygmy
 
