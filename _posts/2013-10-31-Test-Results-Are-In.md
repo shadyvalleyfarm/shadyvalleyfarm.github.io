@@ -70,11 +70,11 @@ include some links below
 * [Caseous Lymphadenitis](http://en.wikipedia.org/wiki/Caseous_lymphadenitis)
 * [Paratuburculosis/Johne's Disease](http://en.wikipedia.org/wiki/Paratuberculosis)
 
-Here's more information on CL from Washington State University [http://www.vetmed.wsu.edu/depts_waddl/FAQ/cl.aspx](Caseous Lymphodenitis
-of sheep and goats)
+Here's more information on CL from Washington State University [Caseous Lymphodenitis
+of sheep and goats](http://www.vetmed.wsu.edu/depts_waddl/FAQ/cl.aspx)
 
 And some more
 
- * [http://goat-link.com/content/view/101/#.Unb143VDulg](CL on Goat-link.com) - Warning: Graphic photos
- * [http://www.cvhs.okstate.edu/index.php?option=com_content&view=article&id=242:my-goat-was-recently-diagnosed-with-caseous-lymphadenitis-what-is-this-and-is-it-serious&catid=29:food-animal-questions&Itemid=258](Article on CL from Oklahoma State)
+ * [CL on Goat-link.com](http://goat-link.com/content/view/101/#.Unb143VDulg) - Warning: Graphic photos
+ * [Article on CL from Oklahoma State](http://www.cvhs.okstate.edu/index.php?option=com_content&view=article&id=242:my-goat-was-recently-diagnosed-with-caseous-lymphadenitis-what-is-this-and-is-it-serious&catid=29:food-animal-questions&Itemid=258)
 
