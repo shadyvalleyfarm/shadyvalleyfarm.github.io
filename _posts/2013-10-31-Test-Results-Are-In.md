@@ -44,7 +44,7 @@ I would also like to point out that these were good herd level tests they are no
 100% guarantees that every animal in my herd is negative.  CL, for example, is hard to test for
 and get accurate results. There are multiple types of tests. One of which is
 to culture the abscess. My herd doesn't have any abscesses to test (which I
-take as a good thing) to test. We tested via blood which checks for antibodies.
+take as a good thing). We tested via blood which checks for antibodies.
 The lack of antibodies indicate that the animals haven't been exposed but not a 
 guarantee. This is just one example of some of the draw backs to testing but it
 is the best we can use right now. 
