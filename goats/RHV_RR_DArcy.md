@@ -27,7 +27,7 @@ Check out her pedigree below or the [ADGA Genetics Profile](http://www.adgagenet
 <!--<iframe src="/goats/pedigrees/RHV_RR_DArcy.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 -->
 
-### Blog posts about Hope
+### Blog posts about D'Arcy
 
 <ul>
   {% for post in site.posts %}
