@@ -29,6 +29,13 @@ goats New arrivals are observed and kept in quarantine for 2 to 4 weeks, dependi
 their origin.  We attempt to purchase new comers in pairs or more from the same herd so that
 they will not be lonely.  
 
+### Common Disease/Virus testing
+
+We do test all our of goats annually for CAE, CL, Johne's disease. We have never had a positive result.
+It is important to understand what these conditions are and that despite a negative result an animal could
+still be infected. This is why we perform tests annually.  Once we are satisfied that our herd is truly negative
+we will slow down the testing and close it off.
+
 ### Visitors
 
 We ask that visitors wash hands or use hand sanitizer prior to and after interacting with our animals.
