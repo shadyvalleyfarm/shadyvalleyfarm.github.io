@@ -16,6 +16,8 @@ sitemap:
 
 ## Detailed Terms
 
+Pricing - Prices of goats are based on various factors including the dam and sire history.  Kids from first fresheners are typically priced lower than kids from experienced dams. We will never raise the price once a deposit is received, however, if we feel the kid's quality will not be up to the price we set then we may, at our option, lower the price. You will be notified if this happens. If you no longer want the kid after a price drop then you have the right to a refund or to another kid if available.
+
 A non-refundable deposit is required to hold any goat. Once a deposit is received the goat will be marked as "Deposit Received" you will have 2 weeks from the date the goat is ready to leave(at approximately 8 weeks of age) to arrange pickup or delivery of your goat.  If you require additional time we will charge $2.50 per day to hold the goat. This is to cover the additional costs assumed when boarding your goat. If you are unable to arrange pickup/delivery of the goat within 4 weeks of the time the goat is ready to leave then the goat will be considered for sale again and your deposit is forfeited.
 
 Full payment is due before the goat may leave our farm. If you are paying by personal check, we reserve the right to wait 10 days to verify the check clears before releasing your goat. In the event of a returned check you will be charged $30 to cover the costs charged by our bank.  We accept Cashiers Checks, Money Orders, Cash, Paypal, and personal checks.
