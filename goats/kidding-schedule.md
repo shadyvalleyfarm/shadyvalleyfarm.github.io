@@ -10,7 +10,7 @@ sitemap:
 | Expected | Sire | Dam | Notes
 |:---|:---|:---|:---
 |March 28, 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [Dragonfly T Vermeil](/goats/Dragonfly_T_Vermeil)|Mei had 1 buck on her first freshening. Doeling kids - $500, buckling kids $550
-|April 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [Critter Grove Sweet Pea](/goats/Critter-Grove-Sweet-Pea)|This will be her first freshening. Doeling kids - $400, buckling kids $400
+|April 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [Critter Grove Sweet Pea](/goats/Critter-Grove-Sweet-Pea)|This will be her first freshening. Doeling kids - $400, buckling kids $400. We are expecting blue eyed kids from Sweet Pea
 |April 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [RHV RR D'Arcy](/goats/RHV_RR_DArcy)|This will be her first freshening. Doeling kids - $400, buckling kids $400
 {{:class="table table-bordered"}}
 
