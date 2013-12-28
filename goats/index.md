@@ -25,19 +25,10 @@ the parents for pedigree purposes.
 * [RHV SCHR Hope on a Rope](/goats/RHV_SCHR_Hope_on_a_Rope)
 * [Critter Grove Brie](/goats/Critter-Grove-Brie)
 
-
-## Does - Pygmy
-
-* [(Shady Valley) Sadie](/goats/Shady-Valley-Sadie)
-* [(Shady Valley) Samantha](/goats/Shady-Valley-Samantha)
-
 ## Bucks
 
 * [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique)
 
-## Wethers
-
-* [(Critter Grove) Buddy](/goats/Buddy)
-* [(RHV) Amigo](/goats/Amigo)
+In addition to those listed above we have some non-registered, not-for-sale, companion goats to our herd.
 
 Animals with herd names in (parenthesis) are unregistered. The herd name is provided to show the origin of the goat
