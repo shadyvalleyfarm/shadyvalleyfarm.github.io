@@ -7,6 +7,8 @@ sitemap:
   lastmod: 2013-10-15T01:10:30-05:00
 ---
 
+[Sales Policy](/about/sales-policy) information
+
 We have no goats for sale at this time. We are not taking reservations at this time.
 
 Please see our [kidding schedule](/goats/kidding-schedule) for planned kiddings
