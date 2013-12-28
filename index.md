@@ -8,17 +8,16 @@ sitemap:
 ---
 {% include JB/setup %}
 
-<img src="/images/goats/Shady_Valley_Buddy/1.jpg" alt="Image of Shady Valley Buddy" class="pic"/>
-
 ## Welcome
-
-Welcome to our homestead on the web.
 
 We are a small farm located outside of Fredericktown, MO.  We love
 the beauty of freedom that Missouri has to offer.  We raise chickens
 and goats on our little farm. We have pygmy and nigerian dwarf goats.
 Our most recent additions are registered nigerian dwarfs and we will
 be offering their offspring for sale in 2014.
+
+Please check out our [Kidding Schedule](/goats/kidding-schedule) for kids
+due in 2014.  We will begin taking reservations in January.
 
 ## Blog
 
