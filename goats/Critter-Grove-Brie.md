@@ -12,7 +12,7 @@ tag: Critter_Grove_Brie
 |**Date of Birth:**|June 02, 2012
 |**Eye Color:**|Blue
 |**Color Description:**|Buckskin
-|**Registered:**|Pending
+|**Registered:**|NDGA, AGS
 |**Dam:**|[Prairie Wood DGM Electra Jazz](http://www.crittergroveranch.com/does.html)
 |**Sire:**|[Critter Grove Gambler](http://www.crittergroveranch.com/bucks.html)
 |**Gender:**|Doe

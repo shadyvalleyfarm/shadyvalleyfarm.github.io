@@ -12,7 +12,7 @@ tag: Critter_Grove_Sweet_Pea
 |**Date of Birth:**|December 10, 2012
 |**Eye Color:**|Blue
 |**Color Description:**|Silver Buckskin
-|**Registered:**|Pending
+|**Registered:**|NDGA, AGS
 |**Dam:**|[Critter Grove Zodiac's Ruth](http://www.crittergroveranch.com/does.html)
 |**Sire:**|[Critter Grove Gambler](http://www.crittergroveranch.com/bucks.html)
 |**Gender:**|Doe
