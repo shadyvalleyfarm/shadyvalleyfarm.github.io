@@ -30,6 +30,8 @@ For deposits on kids, if the desired kid (gender, eye color, dam/sire) is not av
 
 ALL SALES ARE FINAL! You are responsible for complying with all State, Federal, and local laws. If you are a first time goat owner we highly suggest that you talk to your neighbors first. It is neighborly to let them know that you may be bringing some noisy goats around.  Home Owner Associations usually have rules against livestock. Also be aware of any deed restrictions you may have on your property. In some instances there are restrictions against livestock. Please be sure to verify that you can legally own a goat where you reside.
 
+In our experience bottle raised vs dam raised kids have no personality differences. We have several that we bottle raised when we bought them from others and we also have kids that were dam raised.  We prefer to allow the dam to raise the kids given the value added by being raised by a mother. If you prefer to pick up the kid before weening we will ask if you have other goats for the kids to be exposed to and learn from.  We will only allow kids to leave before weening if we feel it is in the best interest of the kid.
+
 Healthcare - Goats require shelter, browse (weeds, roughage, hay), minerals, companions(can't have just one goat), and the occasional vaccine or vet visit. You are responsible for these once the goat leaves our farm. We suggest that you talk to your veterinarian prior to purchase to make sure your vet is goat trained.
 
 We assume no liability for the goat once it leaves our farm.
