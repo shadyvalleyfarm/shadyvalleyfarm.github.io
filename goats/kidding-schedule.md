@@ -9,7 +9,7 @@ sitemap:
 
 | Expected | Sire | Dam | Notes
 |:---|:---|:---|:---
-|March 28, 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [Dragonfly T Vermeil](/goats/Dragonfly_T_Vermeil)|Second Freshener. Doeling kids - $500, buckling kids $550
+|March 28, 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [Dragonfly T Vermeil](/goats/Dragonfly_T_Vermeil)|Second Freshener. Brown eyed kids - $500
 |April 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [Critter Grove Sweet Pea](/goats/Critter-Grove-Sweet-Pea)|First freshener. Doeling blue eyed kids - $350
 |April 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [RHV RR D'Arcy](/goats/RHV_RR_DArcy)|First freshener. Doeling brown eyed kids - $350
 {{:class="table table-bordered"}}
