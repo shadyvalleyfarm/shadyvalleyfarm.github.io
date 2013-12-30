@@ -16,4 +16,9 @@ sitemap:
 
 Prices for kids are based on various factors. Doelings from first fresheners are always priced lower until we can evaluate the dam's quality. Generally we will not sell bucklings from first fresheners. They will be wethered to be sold as pets and will be priced based on coloring and personality traits.
 
+Mizzou is an unproven buck, however, we have extremely high hopes for his kids because of his excellent blood lines. Once his kids prove themselves prices from his kids will go up.
+
 Blue eyes are $25 more since that is a popular trait. If we mention an eye color in the pricing then that has been factored in. If a kid doesn't have the predicted eye color then the price will be corrected appropriately.
+
+Once reservations are open you may place reservations based on dam+sire combinations, eye colors, and gender.  All kids are disbudded unless paid in full before 3 days old.
+
