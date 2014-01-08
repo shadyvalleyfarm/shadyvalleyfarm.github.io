@@ -9,7 +9,7 @@ tag: Critter_Grove_Brie
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
-|**Date of Birth:**|June 02, 2012
+|**Date of Birth:**|June 02, 2013
 |**Eye Color:**|Blue
 |**Color Description:**|Buckskin
 |**Registered:**|NDGA, AGS
