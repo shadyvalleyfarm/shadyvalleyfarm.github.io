@@ -9,9 +9,9 @@ sitemap:
 
 | Expected | Sire | Dam | Notes
 |:---|:---|:---|:---
-|March 28, 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [Dragonfly T Vermeil](/goats/Dragonfly_T_Vermeil)|Second Freshener. $500
-|April 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [Critter Grove Sweet Pea](/goats/Critter-Grove-Sweet-Pea)|First freshener. $300
-|April 2014 | [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) | [RHV RR D'Arcy](/goats/RHV_RR_DArcy)|First freshener. $300
+|March 28, 2014 | [Mizzou](/goats/RHV_Mizzou_Mystique) | [Dragonfly T Vermeil](/goats/Dragonfly_T_Vermeil)|Second Freshener. $500
+|April 2014 | [Mizzou](/goats/RHV_Mizzou_Mystique) | [Critter Grove Sweet Pea](/goats/Critter-Grove-Sweet-Pea)|First freshener. $300
+|April 2014 | [Mizzou](/goats/RHV_Mizzou_Mystique) | [RHV RR D'Arcy](/goats/RHV_RR_DArcy)|First freshener. $300
 {{:class="table table-bordered"}}
 
 Prices for kids are based on various factors. Doelings from first fresheners are always priced lower until we can evaluate the dam's quality. Generally we will not sell bucklings from first fresheners. They will be wethered to be sold as pets and will be priced based on coloring and personality traits.
