@@ -10,6 +10,7 @@ tag: Critter_Grove_Brie
 |:---|:---
 |**Breed:**|Nigerian Dwarf
 |**Date of Birth:**|June 02, 2013
+|**Date of Death:**|February 11, 2014
 |**Eye Color:**|Blue
 |**Color Description:**|Buckskin
 |**Registered:**|NDGA, AGS
@@ -19,10 +20,9 @@ tag: Critter_Grove_Brie
 |**Kidding Schedule:**|[RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) - Late 2014
 |**For Sale**|No
 
-Brie is one of the newest additions to the herd. She comes from the same family
-as Sweet Pea(Brie's Dam is Sweet Pea's grandmother) and we have already found 
-personality similarities with the two.  Brie is slowly getting darker and more
-brown in her coat than when she was born and is a very beautiful doe. 
+Brie was only 8 months old and during that very short 8 months she had become a very unique goat. She still liked to do goat things but marched to the beat of her own drum. She was under developed which was a concern and I removed her from the breeding program because of that. Instead it was decided that she'd be just a pet. This was perfect for her since she preferred being around humans more than other goats and had developed a diva attitude. She could give you a look that showed her attitude and when you called her name while she was busy she'd say "What?" (as close to sounding like what as a goat can get). Her colors changed over the months and she became a near solid chocolate goat at the end. 
+
+Unfortunately for unknown reasons she died of copper toxicity.
 
 ### Blog posts about Brie
 
