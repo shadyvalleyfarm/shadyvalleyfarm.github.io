@@ -27,7 +27,9 @@ the parents for pedigree purposes.
 
 ## Bucks
 
+* [Dragonfly IH Perfect Storm](/goats/Dragonfly_IH_Perfect_Storm)
 * [RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique)
+* [RHV CS Frodo](/goats/RHV_CS_Frodo)
 
 In addition to those listed above we have some non-registered, not-for-sale, companion goats to our herd.
 
