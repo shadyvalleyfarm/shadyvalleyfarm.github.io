@@ -58,6 +58,18 @@ The information on this site is a bit dated. Not all goats are listed under "Goa
 
 All goats are due for CD&T shots in March 2016. Hooves were trimmed in December 2016. I will be doing random fecal samples the last week of December to check for internal parasites.
 
+# Contact
 
+<!-- Do not change the code! -->
+<a id="foxyform_embed_link_734327" href="http://www.foxyform.com/">foxyform</a>
+<script type="text/javascript">
+(function(d, t){
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://www.foxyform.com/js.php?id=734327&sec_hash=e72b827275b&width=350px";
+   s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script>
+<!-- Do not change the code! -->
 
 
