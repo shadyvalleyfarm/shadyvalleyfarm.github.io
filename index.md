@@ -24,13 +24,15 @@ The entire herd consists of 13 does, 3 bucks, and 5 wethers.  I was going to beg
 happening now. 
 
 The following table lists the entire herd with individual asking prices. The entire herd may be purchased for $6200.00. I will only
-begin selling individual goats after a few weeks of attempting to sell them as a herd. 
+begin selling individual goats after a few weeks of attempting to sell them as a herd.  Please use the contact form at the bottom of the page to inquire 
+about purchasing the herd or to be added to a wait list for individual goats. I'd consider selling Mei and Shauna together as a pair
+to a good home. The wethers may also be sold individually.
 
 This list is missing some data just because I am lazy and have not had a chance to dig through all my paperwork
 
 Goats are dual ADGA and AGS registered (except wethers). Only ADGA information is listed below
 
-|ADGA Reg Number|Barn Name|ADGA Registered Name|DOB|Gender|Individual Price|Notes
+|ADGA Reg Number|Barn Name|ADGA Registered Name|DOB|Gender|Price|Notes
 |:----------|:-------|:-------|:-------|:-------|:-------|:-------
 |D1722345|Dancy|Shady Valley Dancy|2015-03-20|Doe|$400.00|Shy with people but warms up quickly
 |D1720517|Fawn|Shady Valley Fawn|2015-03-18|Doe|$350.00|Loves attention but has her moments of shyness
