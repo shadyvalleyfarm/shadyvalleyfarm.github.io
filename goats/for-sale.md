@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Goats For Sale
-group: navigation
 sitemap:
   priority: 0.7
   changefreq: daily
