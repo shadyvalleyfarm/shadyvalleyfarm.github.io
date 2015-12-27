@@ -32,7 +32,7 @@ This list is missing some data just because I am lazy and have not had a chance 
 
 Goats are dual ADGA and AGS registered (except wethers). Only ADGA information is listed below
 
-|Number|Barn Name|ADGA_ Registered_ Name|Date_Of_birth|Gender|Price|Notes
+|Number|Barn Name|ADGA_Registered_Name|Date_Of_birth|Gender|Price|Notes
 |:----------|:-------|:-------|:-------|:-------|:-------|:-------
 |D1722345|Dancy|Shady Valley Dancy|2015-03-20|Doe|$400.00|Shy with people but warms up quickly
 |D1720517|Fawn|Shady Valley Fawn|2015-03-18|Doe|$350.00|Loves attention but has her moments of shyness
