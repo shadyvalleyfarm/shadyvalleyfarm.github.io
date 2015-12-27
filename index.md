@@ -28,8 +28,8 @@ begin selling individual goats after a few weeks of attempting to sell them as a
 
 This list is missing some data just because I am lazy and have not had a chance to dig through all my paperwork
 
-||ADGA Reg Number||AGS Reg Number||Barn Name||ADGA Registered Name||DOB||Gender||Individual Price||Notes||
-|:----------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|
+|ADGA Reg Number|AGS Reg Number|Barn Name|ADGA Registered Name|DOB|Gender|Individual Price|Notes
+|:----------|:-------|:-------|:-------|:-------|:-------|:-------|:-------
 D1722345| |Dancy|Shady Valley Dancy|2015-03-20|Doe|$400.00|Shy with people but warms up quickly
 D1720517| |Fawn|Shady Valley Fawn|2015-03-18|Doe|$350.00|Loves attention but has her moments of shyness
 D1691523| |Eve|Critter Grove Evening Shade|2014-01-01|Doe|$250.00|Pretty friendly but likes to be alone. Can be bossy
