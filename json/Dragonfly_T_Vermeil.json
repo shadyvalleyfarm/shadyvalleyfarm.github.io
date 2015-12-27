@@ -1,0 +1,29 @@
+{
+  "name": "Dragonfly T Vermeil",
+  "born": "March 15, 2011",
+  "gender": "female",
+  "parents": [
+    {
+      "name": "Flat Rocks Tuan",
+      "born": "February 6, 2007",
+      "gender": "male"
+    },
+    {
+      "name": "Dragonfly L Cinnabar",
+      "born": "April 27, 2009",
+      "gender": "female",
+      "parents": [
+        {
+          "name": "Dragonfly TA Lancelot Du Lac",
+          "born": "June 21, 2006",
+          "gender": "male"
+        },
+        {
+          "name": "Lost Valley KW Serendipity",
+          "born": "January 7, 2007",
+          "gender": "female"
+        }
+      ]
+    }
+  ]
+}
