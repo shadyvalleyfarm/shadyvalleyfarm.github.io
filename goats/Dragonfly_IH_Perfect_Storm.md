@@ -14,11 +14,11 @@ tag: Dragonfly_IH_Perfect_Storm
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Buck
-|**For Sale:**|No
+|**For Sale:**|Yes
 
 ### Description
 
 Storm is another buck we proudly purchased from <a href="http://www.redhorsevalley.com/">Red Horse Valley</a>. 
 
-Check out his pedigree below or the [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001566378)
+Check out his pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001566378)
 

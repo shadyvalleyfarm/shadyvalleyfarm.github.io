@@ -14,35 +14,14 @@ tag: Dragonfly_T_Vermeil
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|No
-|**Kidding Schedule:**|[RHV Mizzou Mystique](/goats/RHV_Mizzou_Mystique) - Spring 2014
+|**For Sale:**|Yes
 
 ### Description
 
-Mei (pronounced like May) is a new comer to our herd. 
+Mei (pronounced like May) is an exceptionally friendly and caring goat. She has earned the name of "Big Momma" and has had 4 or more in her births. Unfortunately 
+after a fight with mastitis in 2013 she only has a half functioning udder. This means that only one teat provides milk. Her kids will need supplimental milk
 
-Check out her pedigree below or the [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001547724)
-
-### Pedigree
-
-I am experimenting with a pedigree widget. This is the first draft. You could call this "beta" 
-especially since it does not do much at this time.
-
-<iframe src="/goats/pedigrees/Dragonfly_T_Vermeil.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-### Blog posts about Mei
-
-<ul>
-  {% for post in site.posts %}
-    {% for tag in post.tags %}
-      {% if tag == page.tag %}
-        <li>
-          <a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-</ul>
+Check out her pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001547724)
 
 ### Photos
 

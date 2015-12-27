@@ -14,10 +14,10 @@ tag: RHV_CS_Frodo
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Buck
-|**For Sale:**|No
+|**For Sale:**|Yes
 
 ### Description
 
 Frodo is our youngest buck and another buck we proudly purchased from Red Horse Valley.
 
-Check out his pedigree below or the [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001687189)
+Check out his pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001687189)

@@ -14,11 +14,10 @@ tag: RHV_CS_Dust_O_Gold
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|No
+|**For Sale:**|Yes
 
 ### Description
 
-Dusty is a new arrival.
 
-Check out her pedigree below or the [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001682628)
+Check out her pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001682628)
 

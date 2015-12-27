@@ -14,8 +14,7 @@ tag: Dragonfly_Shauna
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|No
-|**Kidding Schedule:**|[Dragonfly IH Perfect Storm](/goats/Dragonfly_IH_Perfect_Storm) - Spring 2015
+|**For Sale:**|Yes
 
 ### Description
 
@@ -28,30 +27,5 @@ in and treated her as her own. She protected her from the other bigger girls and
 choice.
 
 
-Check out her pedigree below or the [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001540007)
-
-### Pedigree
-
-I am experimenting with a pedigree widget. This is the first draft. You could call this "beta" 
-especially since it does not do much at this time.
-
-<iframe src="/goats/pedigrees/Dragonfly_T_Vermeil.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-### Blog posts about Mei
-
-<ul>
-  {% for post in site.posts %}
-    {% for tag in post.tags %}
-      {% if tag == page.tag %}
-        <li>
-          <a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-</ul>
-
-### Photos
-
-<img src="/images/goats/Dragonfly_T_Vermeil/1.jpg" alt="Image of Dragonfly Shauna" class="pic"/>
+Check out her pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001540007)
 

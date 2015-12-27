@@ -20,18 +20,6 @@ tag: Amigo
 
 Amigo is the companion of [Mizzou](/goats/RHV_Mizzou_Mystique).
 
-### Blogs about Amigo
-
-<ul>
-  {% for post in site.posts %}
-    {% for tag in post.tags %}
-      {% if tag == page.tag %}
-        <li><a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-</ul>
-
 ### Photos
 
 Check back soon
