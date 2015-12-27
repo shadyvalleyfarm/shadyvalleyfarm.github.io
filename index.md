@@ -16,7 +16,7 @@ Nigerian Dwarf goats were chosen because of their higher butterfat and smaller n
 while I worked a fulltime job to "pay the bills." The farm has grown from just a couple of does to now 21 goats.
 
 *December 27, 2015* - Unfortunately, the job which is supposed to "pay the bills" while building the hobby into a business
-has had a change. I am no longer able to maintain and build the creamery. After much deliberation and considering of options
+has had a change and I am forced to relocate to an urban area. I have been faced with a very difficult decision. After much deliberation and considering of options
 I have decided that the best option is to sell off the entire herd. I would like to sell them all as a complete package. I have
 a few family units who have a strong bond and get along well with each other and I want to try to avoid stressing them.
 
