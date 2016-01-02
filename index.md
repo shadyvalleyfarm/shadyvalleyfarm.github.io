@@ -59,7 +59,7 @@ I have more in each goat than they are individually priced. I'm taking a huge lo
 
 The information on this site is a bit dated. Not all goats are listed under "Goats"  but the above table is up-to-date and accurate. I'll be updating pics and information on individual goat pages as time permits.
 
-All goats are due for CD&T shots in March 2016. Hooves were trimmed in December 2016. I will be doing random fecal samples the last week of December to check for internal parasites.
+All goats are due for CD&T shots in March 2016. Hooves were trimmed in December 2016. I do random fecals to test for internal parasites.
 
 # Contact
 
