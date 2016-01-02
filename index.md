@@ -23,10 +23,9 @@ a few family units who have a strong bond and get along well with each other and
 The entire herd consists of 13 does, 3 bucks, and 5 wethers.  I was going to begin DHI and LA in 2016, however, this will not be
 happening now. 
 
-The following table lists the entire herd with individual asking prices. The entire herd may be purchased for $6200.00. I will only
-begin selling individual goats after a few weeks of attempting to sell them as a herd.  Please use the contact form at the bottom of the page to inquire 
-about purchasing the herd or to be added to a wait list for individual goats. I'd consider selling Mei and Shauna together as a pair
-to a good home. The wethers may also be sold individually.
+The following table lists the entire herd with individual asking prices. The entire herd may be purchased for $5000.00 as a whole. I will only
+begin selling individual and smaller groups starting January 14, 2016 with the exception of Mei and Shauna. I'd like to find them a good home.  Please use the contact form at the bottom of the page to inquire 
+about purchasing the herd or to be added to a wait list for individual goats.
 
 This list is missing some data just because I am lazy and have not had a chance to dig through all my paperwork
 
@@ -36,14 +35,14 @@ Goats are dual ADGA and AGS registered (except wethers). Only ADGA information i
 |:----------|:-------|:-------|:-------|:-------|:-------|:-------
 |D1722345|Dancy|Shady Valley Dancy|2015-03-20|Doe|$400.00|Shy with people but warms up quickly
 |D1720517|Fawn|Shady Valley Fawn|2015-03-18|Doe|$350.00|Loves attention but has her moments of shyness
-|D1691523|Eve|Critter Grove Evening Shade|2014-01-01|Doe|$250.00|Pretty friendly but likes to be alone. Can be bossy
+|D1691523|Eve|Critter Grove Evening Shade|2014-01-01|Doe|$300.00|Pretty friendly but likes to be alone. Can be bossy
 |D1687189|Frodo|RHV CS Frodo|2014-04-13|Buck|$500.00|Enjoys attention from people
 |D1687102|Babs|Shady Valley Babs|2014-04-24|Doe|$300.00|Exposed to Storm on 2015-10-20. Not confirmed. She is very very shy. Does not like being around people.
 |D1682628|Dusty|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Friendly after warming up to you. Bonded very closely with Shauna
-|D1671698|Liz|The Critter Grove Liz|2014-01-05|Doe|$250.00|Friendly and likes to be around people. Mother of Baxter.
-|D1671697|Bitsy|The Critter Grove Bitsy|2014-01-05|Doe|$250.00|She's very friendly. She likes attention.
-|D1671696|Coco|The Critter Grove Coco|2014-01-03|Doe|$250.00|Friendly, but likes to be alone
-|D1668246|Sweet Pea|AGS Criiter Grove Sweet Pea|2012-12-10|Doe|$250.00|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
+|D1671698|Liz|The Critter Grove Liz|2014-01-05|Doe|$300.00|Friendly and likes to be around people. Mother of Baxter.
+|D1671697|Bitsy|The Critter Grove Bitsy|2014-01-05|Doe|$300.00|She's very friendly. She likes attention.
+|D1671696|Coco|The Critter Grove Coco|2014-01-03|Doe|$300.00|Friendly, but likes to be alone
+|D1668246|Sweet Pea|AGS Criiter Grove Sweet Pea|2012-12-10|Doe|$300.00|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
 |D1637828|Hope|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Shy but friendly.
 |D1630035|Mizzou|RHV Mizzou Mystique|2013-03-19|Buck|$800.00|Friendly, likes attention. Has great bloodlines.
 |D1630033|D'Arcy|RHV RR D'arcy|2013-03-18|Doe|$450.00|A little shy with people unless food is involved. Mother of Dancy
@@ -55,6 +54,8 @@ Goats are dual ADGA and AGS registered (except wethers). Only ADGA information i
 | |Baxter| |2015-04-18|Wether|$100.00|Very little and shy. Tends to stick with his dam, Liz.
 | |Amigo| |2013-03-17|Wether|$100.00|Friendly and playful. Likes to unzip things. Great companion to the bucks
 | |Buddy| |2013-05-29|Wether|$100.00|Has a scur. Can be a bully when with does but makes a good buck companion. He's full brother to Sweet Pea and half to Liz, Coco, Bitsy, Eve
+
+I have more in each goat than they are individually priced. I'm taking a huge loss on this herd but I need to move them soon. 
 
 The information on this site is a bit dated. Not all goats are listed under "Goats"  but the above table is up-to-date and accurate. I'll be updating pics and information on individual goat pages as time permits.
 
