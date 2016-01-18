@@ -23,15 +23,14 @@ a few family units who have a strong bond and get along well with each other and
 The entire herd consists of 13 does, 3 bucks, and 5 wethers.  I was going to begin DHI and LA in 2016, however, this will not be
 happening now. 
 
-The following table lists the entire herd with individual asking prices. The entire herd may be purchased for $5000.00 as a whole. I will only
-begin selling individual and smaller groups starting January 14, 2016 with the exception of Mei and Shauna. I'd like to find them a good home.  Please use the contact form at the bottom of the page to inquire 
-about purchasing the herd or to be added to a wait list for individual goats.
+The following table lists the entire herd with individual asking prices. The entire herd may be purchased for $5000.00 as a whole.
+
 
 This list is missing some data just because I am lazy and have not had a chance to dig through all my paperwork
 
 Goats are dual ADGA and AGS registered (except wethers). Only ADGA information is listed below
 
-## Entire Herd Package
+## Entire Herd Package - $5000.00
 
 |Number|Barn Name|ADGA_Registered_Name|Date_Of_birth|Gender|Price|Notes
 |:----------|:-------|:-------|:-------|:-------|:-------|:-------
@@ -61,7 +60,7 @@ Goats are dual ADGA and AGS registered (except wethers). Only ADGA information i
 
 I'm grouping together smaller groups of goats. These groups are discounted.  
 
-### Group 1
+### Group 1 - $700.00
 
 This is good group for those wanting to just get a couple of does to start out with and some companion wethers.
 
@@ -73,7 +72,7 @@ This is good group for those wanting to just get a couple of does to start out w
 | |Buster| |2014-04-24|Wether|$100.00|Roger's brother. They are very close and tend to stay together
 
 
-### Group 2
+### Group 2 - $1000.00
 
 This group includes a non-related buck (except for Baxter who is Frodo's son). Baxter is small and does well with his dam Liz. I want to keep these two together.
 
@@ -85,7 +84,7 @@ This group includes a non-related buck (except for Baxter who is Frodo's son). B
 |D1671698|Liz|The Critter Grove Liz|2014-01-05|Doe|$300.00|Friendly and likes to be around people. Mother of Baxter.
 | |Baxter| |2015-04-18|Wether|$100.00|Very little and shy. Tends to stick with his dam, Liz.
 
-### Group 3
+### Group 3 - $1500.00
 
 This group includes Shauna and Dusty who are well bonded and Mizzou my most often inquired about buck. Buddy is included as a companion for Mizzou
 
@@ -97,7 +96,7 @@ This group includes Shauna and Dusty who are well bonded and Mizzou my most ofte
 | |Buddy| |2013-05-29|Wether|$100.00|Has a scur. Can be a bully when with does but makes a good buck companion. He's full brother to Sweet Pea and half to Liz, Coco, Bitsy, Eve
 
 
-### Group 4
+### Group 4 - $1000.00
 
 This group includes Hope and D'Arcy who are bonded along with Mei and an extra companion wether.
 
@@ -108,7 +107,7 @@ This group includes Hope and D'Arcy who are bonded along with Mei and an extra c
 |D1547724|Mei|Dragonfly T Vermeil|2011-03-15|Doe|$475.00|Exposed to Storm on 2015-10-20. Not confirmed. Only half udder is working.  Very friendly and likes to be around people. Likes to have her head scratched. She's one of my all time favorite goats. She has a nick n
 | |Amigo| |2013-03-17|Wether|$100.00|Friendly and playful. Likes to unzip things. Great companion to the bucks
 
-### Group 5
+### Group 5 - $1000.00
 
 This group includes 3 sisters and a buck.
 
