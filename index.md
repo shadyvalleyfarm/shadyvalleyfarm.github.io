@@ -25,10 +25,9 @@ happening now.
 
 The following table lists the entire herd with individual asking prices. The entire herd may be purchased for $5000.00 as a whole.
 
-
 This list is missing some data just because I am lazy and have not had a chance to dig through all my paperwork
 
-Goats are dual ADGA and AGS registered (except wethers). Only ADGA information is listed below
+Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA information is listed below
 
 ## Entire Herd Package - $5000.00
 
@@ -58,7 +57,8 @@ Goats are dual ADGA and AGS registered (except wethers). Only ADGA information i
 
 ## Select Groups
 
-I'm grouping together smaller groups of goats. These groups are discounted.  
+I'm grouping together smaller groups of goats. These groups are discounted.  I would consider swapping around some goats in these groups, however, the reason I'm selling is because
+I can not keep them I will not put myself in a situation to end up with one or two goats who can't be sold. So please keep this in mind when inquiring. 
 
 ### Group 1 - $700.00
 
@@ -118,6 +118,9 @@ This group includes 3 sisters and a buck.
 |D1668246|Sweet Pea|AGS Criiter Grove Sweet Pea|2012-12-10|Doe|$300.00|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
 |D1566378|Storm|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00|Friendly and has great bloodlines
 
+# Individual Sales
+
+I am beginning to accept requests for individual goats, however, I'll give preference to group purchses. 
 
 I have more in each goat than they are individually priced. I'm taking a huge loss on this herd but I need to move them soon. 
 
