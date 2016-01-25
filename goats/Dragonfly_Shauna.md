@@ -29,3 +29,7 @@ choice.
 
 Check out her pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001540007)
 
+<img src="/images/goats/Dragonfly_Shauna/1.jpg" alt="Image of Dragonfly Shauna" class="pic"/>
+<img src="/images/goats/Dragonfly_Shauna/2.jpg" alt="Image of Dragonfly Shauna" class="pic"/>
+
+

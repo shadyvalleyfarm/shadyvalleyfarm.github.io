@@ -21,3 +21,7 @@ tag: RHV_CS_Dust_O_Gold
 
 Check out her pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001682628)
 
+<img src="/images/goats/RHV_CS_Dust_O_Gold/1.jpg" alt="Image of Dusty" class="pic"/>
+<img src="/images/goats/RHV_CS_Dust_O_Gold/2.jpg" alt="Image of Dusty" class="pic"/>
+
+
