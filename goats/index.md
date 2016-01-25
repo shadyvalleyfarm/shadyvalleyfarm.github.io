@@ -20,7 +20,7 @@ the parents for pedigree purposes.
 ## Does - Nigerian
 
 * [Dragonfly Shauna](/goats/Dragonfly_Shauna)
-* [RHV CS Dust O'Gold}(/goats/RHV_CS_Dust_O_Gold)
+* [RHV CS Dust O'Gold](/goats/RHV_CS_Dust_O_Gold)
 * [Dragonfly T Vermeil](/goats/Dragonfly_T_Vermeil)
 * [Critter Grove Sweet Pea](/goats/Critter-Grove-Sweet-Pea)
 * [RHV RR D'Arcy](/goats/RHV_RR_DArcy)
