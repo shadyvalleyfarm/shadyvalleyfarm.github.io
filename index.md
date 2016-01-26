@@ -52,8 +52,8 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 | |Shady Valley Roger |2014-04-24|Wether|$100.00|Friendliest of all the goats. The complete opposite of his sister babs. He'd rather be around people than other goats.
 | |Shady Valley Buster|2014-04-24|Wether|$100.00|Roger's brother. They are very close and tend to stay together
 | |Shady Valley Baxter|2015-04-18|Wether|$100.00|Very little and shy. Tends to stick with his dam, Liz.
-| |Amigo| |2013-03-17|Wether|$100.00|Friendly and playful. Likes to unzip things. Great companion to the bucks
-| |Buddy| |2013-05-29|Wether|$100.00|Has a scur. Can be a bully when with does but makes a good buck companion. He's full brother to Sweet Pea and half to Liz, Coco, Bitsy, Eve
+| |Amigo|2013-03-17|Wether|$100.00|Friendly and playful. Likes to unzip things. Great companion to the bucks
+| |Buddy|2013-05-29|Wether|$100.00|Has a scur. Can be a bully when with does but makes a good buck companion. He's full brother to Sweet Pea and half to Liz, Coco, Bitsy, Eve
 
 ## Select Groups
 
