@@ -124,6 +124,9 @@ This group includes 2 sisters and a buck with a whether
 I am beginning to accept requests for individual goats, however, I'll give preference to group purchses.  I won't sell a goat to live alone. Goats need companionship of other goats in order to be happy. There is
 an old saying "A lonely goat is a dead goat."   Wethers make great pets and are better pets than does. Please consider this when asking about does as pets.
 
+Please keep in mind that my goal is to sell the entire herd before the end of February. I have some individual goats who I get constant requests for and others with very little interest. If you're willing to take a low interest goat (such 
+as a wether or older doe) I'll make a better deal than just the high demand goats.  I don't want to be stuck with one or two goats with no demand.
+
 I have more in each goat than they are individually priced. I'm taking a huge loss on this herd but I need to move them soon. 
 
 The information on this site is a bit dated. Not all goats are listed under "Goats"  but the above table is up-to-date and accurate. I'll be updating pics and information on individual goat pages as time permits.
