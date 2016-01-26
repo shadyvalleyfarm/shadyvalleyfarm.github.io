@@ -40,7 +40,7 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 |D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00|Friendly and likes to be around people. Mother of Baxter.
 |D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00|She's very friendly. She likes attention.
 |D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00|Friendly, but likes to be alone
-|D1668246|AGS Criiter Grove Sweet Pea|2012-12-10|Doe|$350.00|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
+|D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|$350.00|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
 |D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Friendly after warming up to you. Bonded very closely with Shauna
 |D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Shy but friendly.
 |D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00|A little shy with people unless food is involved. Mother of Dancy
@@ -105,7 +105,7 @@ This group includes Hope and D'Arcy who are bonded along with Mei and Sweet Pea.
 |D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|Exposed to Storm on 2015-10-20. Not confirmed. Shy but friendly.
 |D1630033|RHV RR D'arcy|2013-03-18|Doe||A little shy with people unless food is involved. Mother of Dancy
 |D1547724|Dragonfly T Vermeil|2011-03-15|Doe|Exposed to Storm on 2015-10-20. Not confirmed. Only half udder is working.  Very friendly and likes to be around people. Likes to have her head scratched. She's one of my all time favorite goats. She has a nick n
-|D1668246|AGS Criiter Grove Sweet Pea|2012-12-10|Doe|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
+|D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
 
 ### Group 5 - $1000.00
 
