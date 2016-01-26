@@ -121,13 +121,14 @@ This group includes 2 sisters and a buck with a whether
 
 # Individual Sales
 
-I am beginning to accept requests for individual goats, however, I'll give preference to group purchses. 
+I am beginning to accept requests for individual goats, however, I'll give preference to group purchses.  I won't sell a goat to live alone. Goats need companionship of other goats in order to be happy. There is
+an old saying "A lonely goat is a dead goat."   Wethers make great pets and are better pets than does. Please consider this when asking about does as pets.
 
 I have more in each goat than they are individually priced. I'm taking a huge loss on this herd but I need to move them soon. 
 
 The information on this site is a bit dated. Not all goats are listed under "Goats"  but the above table is up-to-date and accurate. I'll be updating pics and information on individual goat pages as time permits.
 
-All goats are due for CD&T shots in March 2016. Hooves were trimmed in December 2016. I do random fecals to test for internal parasites.
+All goats are due for CD&T shots in March 2016. Hooves were trimmed in December 2015. I do random fecals to test for internal parasites.
 
 # Contact
 
