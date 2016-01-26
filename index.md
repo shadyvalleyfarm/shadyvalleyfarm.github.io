@@ -92,7 +92,7 @@ This group includes Shauna and Dusty who are well bonded and Mizzou my most ofte
 |:----------|:-------|:-------|:-------|:-------|:-------
 |D1540007|Dragonfly Shauna|2010-03-10|Doe|Exposed to Storm on 2015-10-20. Not confirmed. Very friendly and motherly. Tends to be a loner away from other goats except Dusty. She acts like a mom to dusty even though they aren't related. Like Mei she's getting up there in age but is a great herd companion and farm pet.
 |D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|Exposed to Storm on 2015-10-20. Not confirmed. Friendly after warming up to you. Bonded very closely with Shauna
-|D1630035RHV Mizzou Mystique|2013-03-19|Buck|Friendly, likes attention. Has great bloodlines.
+|D1630035|RHV Mizzou Mystique|2013-03-19|Buck|Friendly, likes attention. Has great bloodlines.
 | |Shady Valley Buddy|2013-05-29|Wether|Has a scur. Can be a bully when with does but makes a good buck companion. He's full brother to Sweet Pea and half to Liz, Coco, Bitsy, Eve
 
 
