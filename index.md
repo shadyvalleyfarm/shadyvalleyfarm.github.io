@@ -31,27 +31,27 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 
 ## Entire Herd Package - $5000.00
 
-|Number|Barn Name|ADGA_Registered_Name|Date_Of_birth|Gender|Price|Notes
-|:----------|:-------|:-------|:-------|:-------|:-------|:-------
-|D1722345|Dancy|Shady Valley Dancy|2015-03-20|Doe|$400.00|Shy with people but warms up quickly
-|D1720517|Fawn|Shady Valley Fawn|2015-03-18|Doe|$350.00|Loves attention but has her moments of shyness
-|D1691523|Eve|Critter Grove Evening Shade|2014-01-01|Doe|$300.00|Pretty friendly but likes to be alone. Can be bossy
-|D1687189|Frodo|RHV CS Frodo|2014-04-13|Buck|$500.00|Enjoys attention from people
-|D1687102|Babs|Shady Valley Babs|2014-04-24|Doe|$300.00|Exposed to Storm on 2015-10-20. Not confirmed. She is very very shy. Does not like being around people.
-|D1682628|Dusty|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Friendly after warming up to you. Bonded very closely with Shauna
-|D1671698|Liz|The Critter Grove Liz|2014-01-05|Doe|$300.00|Friendly and likes to be around people. Mother of Baxter.
-|D1671697|Bitsy|The Critter Grove Bitsy|2014-01-05|Doe|$300.00|She's very friendly. She likes attention.
-|D1671696|Coco|The Critter Grove Coco|2014-01-03|Doe|$300.00|Friendly, but likes to be alone
-|D1668246|Sweet Pea|AGS Criiter Grove Sweet Pea|2012-12-10|Doe|$300.00|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
-|D1637828|Hope|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Shy but friendly.
-|D1630035|Mizzou|RHV Mizzou Mystique|2013-03-19|Buck|$800.00|Friendly, likes attention. Has great bloodlines.
-|D1630033|D'Arcy|RHV RR D'arcy|2013-03-18|Doe|$450.00|A little shy with people unless food is involved. Mother of Dancy
-|D1566378|Storm|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00|Friendly and has great bloodlines
-|D1547724|Mei|Dragonfly T Vermeil|2011-03-15|Doe|$475.00|Exposed to Storm on 2015-10-20. Not confirmed. Only half udder is working.  Very friendly and likes to be around people. Likes to have her head scratched. She's one of my all time favorite goats. She has a nick name of "big momm" and has a personality everyone likes. She's getting up there and age and may not be breedable for more than another season or two, however, she makes a great herd companion and farm pet.
-|D1540007|Shauna|Dragonfly Shauna|2010-03-10|Doe|$400.00|Exposed to Storm on 2015-10-20. Not confirmed. Very friendly and motherly. Tends to be a loner away from other goats except Dusty. She acts like a mom to dusty even though they aren't related. Like Mei she's getting up there in age but is a great herd companion and farm pet.
-| |Roger| |2014-04-24|Wether|$100.00|Friendliest of all the goats. The complete opposite of his sister babs. He'd rather be around people than other goats.
-| |Buster| |2014-04-24|Wether|$100.00|Roger's brother. They are very close and tend to stay together
-| |Baxter| |2015-04-18|Wether|$100.00|Very little and shy. Tends to stick with his dam, Liz.
+|Number|ADGA_Registered_Name|Date_Of_birth|Gender|Price|Notes
+|:----------|:-------|:-------|:-------|:-------|:-------
+|D1722345|Shady Valley Dancy|2015-03-20|Doe|$400.00|Shy with people but warms up quickly
+|D1720517|Shady Valley Fawn|2015-03-18|Doe|$400.00|Loves attention but has her moments of shyness
+|D1687102|Shady Valley Babs|2014-04-24|Doe|$400.00|Exposed to Storm on 2015-10-20. Not confirmed. She is very very shy. Does not like being around people.
+|D1691523|Critter Grove Evening Shade|2014-01-01|Doe|$350.00|Pretty friendly but likes to be alone. Can be bossy
+|D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00|Friendly and likes to be around people. Mother of Baxter.
+|D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00|She's very friendly. She likes attention.
+|D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00|Friendly, but likes to be alone
+|D1668246|AGS Criiter Grove Sweet Pea|2012-12-10|Doe|$350.00|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
+|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Friendly after warming up to you. Bonded very closely with Shauna
+|D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Shy but friendly.
+|D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00|A little shy with people unless food is involved. Mother of Dancy
+|D1547724|Dragonfly T Vermeil|2011-03-15|Doe|$400.00|Exposed to Storm on 2015-10-20. Not confirmed. Only half udder is working.  Very friendly and likes to be around people. Likes to have her head scratched. She's one of my all time favorite goats. She has a nick name of "big momm" and has a personality everyone likes. She's getting up there and age and may not be breedable for more than another season or two, however, she makes a great herd companion and farm pet.
+|D1540007|Dragonfly Shauna|2010-03-10|Doe|$400.00|Exposed to Storm on 2015-10-20. Not confirmed. Very friendly and motherly. Tends to be a loner away from other goats except Dusty. She acts like a mom to dusty even though they aren't related. Like Mei she's getting up there in age but is a great herd companion and farm pet.
+|D1687189|RHV CS Frodo|2014-04-13|Buck|$500.00|Enjoys attention from people
+|D1630035|RHV Mizzou Mystique|2013-03-19|Buck|$1000.00|Friendly, likes attention. Has great bloodlines.
+|D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00|Friendly and has great bloodlines
+| |Shady Valley Roger |2014-04-24|Wether|$100.00|Friendliest of all the goats. The complete opposite of his sister babs. He'd rather be around people than other goats.
+| |Shady Valley Buster|2014-04-24|Wether|$100.00|Roger's brother. They are very close and tend to stay together
+| |Shady Valley Baxter|2015-04-18|Wether|$100.00|Very little and shy. Tends to stick with his dam, Liz.
 | |Amigo| |2013-03-17|Wether|$100.00|Friendly and playful. Likes to unzip things. Great companion to the bucks
 | |Buddy| |2013-05-29|Wether|$100.00|Has a scur. Can be a bully when with does but makes a good buck companion. He's full brother to Sweet Pea and half to Liz, Coco, Bitsy, Eve
 
@@ -64,59 +64,59 @@ I can not keep them I will not put myself in a situation to end up with one or t
 
 This is good group for those wanting to just get a couple of does to start out with and some companion wethers.
 
-|Number|Barn Name|ADGA_Registered_Name|Date_Of_birth|Gender|Price|Notes
-|:----------|:-------|:-------|:-------|:-------|:-------|:-------
-|D1722345|Dancy|Shady Valley Dancy|2015-03-20|Doe|$400.00|Shy with people but warms up quickly
-|D1720517|Fawn|Shady Valley Fawn|2015-03-18|Doe|$350.00|Loves attention but has her moments of shyness
-| |Roger| |2014-04-24|Wether|$100.00|Friendliest of all the goats. The complete opposite of his sister babs. He'd rather be around people than other goats.
-| |Buster| |2014-04-24|Wether|$100.00|Roger's brother. They are very close and tend to stay together
+|Number|ADGA_Registered_Name|Date_Of_birth|Gender|Notes
+|:----------|:-------|:-------|:-------|:-------|:-------
+|D1722345|Shady Valley Dancy|2015-03-20|Doe|Shy with people but warms up quickly
+|D1720517|Shady Valley Fawn|2015-03-18|Doe|Loves attention but has her moments of shyness
+| |Shady Valley Roger|2014-04-24|Wether|Friendliest of all the goats. The complete opposite of his sister babs. He'd rather be around people than other goats.
+| |Shady Buster|2014-04-24|Wether|Roger's brother. They are very close and tend to stay together
 
 
 ### Group 2 - $1000.00
 
 This group includes a non-related buck (except for Baxter who is Frodo's son). Baxter is small and does well with his dam Liz. I want to keep these two together.
 
-|Number|Barn Name|ADGA_Registered_Name|Date_Of_birth|Gender|Price|Notes
-|:----------|:-------|:-------|:-------|:-------|:-------|:-------
-|D1691523|Eve|Critter Grove Evening Shade|2014-01-01|Doe|$300.00|Pretty friendly but likes to be alone. Can be bossy
-|D1687189|Frodo|RHV CS Frodo|2014-04-13|Buck|$500.00|Enjoys attention from people
-|D1687102|Babs|Shady Valley Babs|2014-04-24|Doe|$300.00|Exposed to Storm on 2015-10-20. Not confirmed. She is very very shy. Does not like being around people.
-|D1671698|Liz|The Critter Grove Liz|2014-01-05|Doe|$300.00|Friendly and likes to be around people. Mother of Baxter.
-| |Baxter| |2015-04-18|Wether|$100.00|Very little and shy. Tends to stick with his dam, Liz.
+|Number|ADGA_Registered_Name|Date_Of_birth|Gender|Notes
+|:----------|:-------|:-------|:-------|:-------|:-------
+|D1691523|Critter Grove Evening Shade|2014-01-01|Doe|Pretty friendly but likes to be alone. Can be bossy
+|D1687189|RHV CS Frodo|2014-04-13|Buck|Enjoys attention from people
+|D1687102|Shady Valley Babs|2014-04-24|Doe|Exposed to Storm on 2015-10-20. Not confirmed. She is very very shy. Does not like being around people.
+|D1671698|The Critter Grove Liz|2014-01-05|Doe|Friendly and likes to be around people. Mother of Baxter.
+| |Shady Valley Baxter|2015-04-18|Wether|Very little and shy. Tends to stick with his dam, Liz.
 
 ### Group 3 - $1500.00
 
 This group includes Shauna and Dusty who are well bonded and Mizzou my most often inquired about buck. Buddy is included as a companion for Mizzou
 
-|Number|Barn Name|ADGA_Registered_Name|Date_Of_birth|Gender|Price|Notes
-|:----------|:-------|:-------|:-------|:-------|:-------|:-------
-|D1540007|Shauna|Dragonfly Shauna|2010-03-10|Doe|$400.00|Exposed to Storm on 2015-10-20. Not confirmed. Very friendly and motherly. Tends to be a loner away from other goats except Dusty. She acts like a mom to dusty even though they aren't related. Like Mei she's getting up there in age but is a great herd companion and farm pet.
-|D1682628|Dusty|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Friendly after warming up to you. Bonded very closely with Shauna
-|D1630035|Mizzou|RHV Mizzou Mystique|2013-03-19|Buck|$800.00|Friendly, likes attention. Has great bloodlines.
-| |Buddy| |2013-05-29|Wether|$100.00|Has a scur. Can be a bully when with does but makes a good buck companion. He's full brother to Sweet Pea and half to Liz, Coco, Bitsy, Eve
+|Number|ADGA_Registered_Name|Date_Of_birth|Gender|Notes
+|:----------|:-------|:-------|:-------|:-------|:-------
+|D1540007|Dragonfly Shauna|2010-03-10|Doe|Exposed to Storm on 2015-10-20. Not confirmed. Very friendly and motherly. Tends to be a loner away from other goats except Dusty. She acts like a mom to dusty even though they aren't related. Like Mei she's getting up there in age but is a great herd companion and farm pet.
+|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|Exposed to Storm on 2015-10-20. Not confirmed. Friendly after warming up to you. Bonded very closely with Shauna
+|D1630035RHV Mizzou Mystique|2013-03-19|Buck|Friendly, likes attention. Has great bloodlines.
+| |Shady Valley Buddy|2013-05-29|Wether|Has a scur. Can be a bully when with does but makes a good buck companion. He's full brother to Sweet Pea and half to Liz, Coco, Bitsy, Eve
 
 
 ### Group 4 - $1000.00
 
 This group includes Hope and D'Arcy who are bonded along with Mei and Sweet Pea.
 
-|Number|Barn Name|ADGA_Registered_Name|Date_Of_birth|Gender|Price|Notes
+|Number|ADGA_Registered_Name|Date_Of_birth|Gender|Notes
 |:----------|:-------|:-------|:-------|:-------|:-------|:-------
-|D1637828|Hope|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Shy but friendly.
-|D1630033|D'Arcy|RHV RR D'arcy|2013-03-18|Doe|$450.00|A little shy with people unless food is involved. Mother of Dancy
-|D1547724|Mei|Dragonfly T Vermeil|2011-03-15|Doe|$475.00|Exposed to Storm on 2015-10-20. Not confirmed. Only half udder is working.  Very friendly and likes to be around people. Likes to have her head scratched. She's one of my all time favorite goats. She has a nick n
-|D1668246|Sweet Pea|AGS Criiter Grove Sweet Pea|2012-12-10|Doe|$300.00|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
+|D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|Exposed to Storm on 2015-10-20. Not confirmed. Shy but friendly.
+|D1630033|RHV RR D'arcy|2013-03-18|Doe||A little shy with people unless food is involved. Mother of Dancy
+|D1547724|Dragonfly T Vermeil|2011-03-15|Doe|Exposed to Storm on 2015-10-20. Not confirmed. Only half udder is working.  Very friendly and likes to be around people. Likes to have her head scratched. She's one of my all time favorite goats. She has a nick n
+|D1668246|AGS Criiter Grove Sweet Pea|2012-12-10|Doe|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
 
 ### Group 5 - $1000.00
 
 This group includes 2 sisters and a buck with a whether
 
-|Number|Barn Name|ADGA_Registered_Name|Date_Of_birth|Gender|Price|Notes
+|Number|Barn Name|ADGA_Registered_Name|Date_Of_birth|Gender|Notes
 |:----------|:-------|:-------|:-------|:-------|:-------|:-------
-|D1671697|Bitsy|The Critter Grove Bitsy|2014-01-05|Doe|$300.00|She's very friendly. She likes attention.
-|D1671696|Coco|The Critter Grove Coco|2014-01-03|Doe|$300.00|Friendly, but likes to be alone
-|D1566378|Storm|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00|Friendly and has great bloodlines
-| |Amigo| |2013-03-17|Wether|$100.00|Friendly and playful. Likes to unzip things. Great companion to the bucks
+|D1671697|Bitsy|The Critter Grove Bitsy|2014-01-05|Doe|She's very friendly. She likes attention.
+|D1671696|Coco|The Critter Grove Coco|2014-01-03|Doe|Friendly, but likes to be alone
+|D1566378|Storm|Dragonfly IH Perfect Storm|2010-08-02|Buck|Friendly and has great bloodlines
+| |Amigo|2013-03-17|Wether|Friendly and playful. Likes to unzip things. Great companion to the bucks
 
 
 # Individual Sales
