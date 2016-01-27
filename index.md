@@ -68,7 +68,7 @@ I can not keep them I will not put myself in a situation to end up with one or t
 This is good group for those wanting to just get a couple of does to start out with and some companion wethers.  I am willing to put Storm into this group for a total of $1000.00.
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender
-|:----------|:-------|:-------|:-------|:--------
+|:----------|:-------|:-------|:-------
 |D1722345|Shady Valley Dancy|2015-03-20|Doe
 |D1720517|Shady Valley Fawn|2015-03-18|Doe
 | |Shady Valley Roger|2014-04-24|Wether
@@ -80,7 +80,7 @@ This is good group for those wanting to just get a couple of does to start out w
 This group includes a non-related buck (except for Baxter who is Frodo's son). Baxter is small and does well with his dam Liz. I want to keep these two together.
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender
-|:----------|:-------|:-------|:-------|:-------
+|:----------|:-------|:-------|:--------
 |D1691523|Critter Grove Evening Shade|2014-01-01|Doe
 |D1687189|RHV CS Frodo|2014-04-13|Buck
 |D1687102|Shady Valley Babs|2014-04-24|Doe
@@ -92,7 +92,7 @@ This group includes a non-related buck (except for Baxter who is Frodo's son). B
 This group includes Shauna and Dusty who are well bonded and Mizzou my most often inquired about buck. Buddy is included as a companion for Mizzou
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender
-|:----------|:-------|:-------|:-------|:-------
+|:----------|:-------|:-------|:-------
 |D1540007|Dragonfly Shauna|2010-03-10|Doe
 |D1682628|RHV CS Dust O'Gold|2014-03-21|Doe
 |D1630035|RHV Mizzou Mystique|2013-03-19|Buck
@@ -104,7 +104,7 @@ This group includes Shauna and Dusty who are well bonded and Mizzou my most ofte
 This group includes Hope and D'Arcy who are bonded along with Mei and Sweet Pea.
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender
-|:----------|:-------|:-------|:-------|:--------
+|:----------|:-------|:-------|:-------
 |D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe
 |D1630033|RHV RR D'arcy|2013-03-18|Doe
 |D1547724|Dragonfly T Vermeil|2011-03-15|Doe
@@ -114,11 +114,11 @@ This group includes Hope and D'Arcy who are bonded along with Mei and Sweet Pea.
 
 This group includes 2 sisters and a buck with a whether
 
-|Number|Barn Name|ADGA_Registered_Name|Date_Of_birth|Gender
-|:----------|:-------|:-------|:-------|:-------|:-------
-|D1671697|Bitsy|The Critter Grove Bitsy|2014-01-05|Doe
-|D1671696|Coco|The Critter Grove Coco|2014-01-03|Doe
-|D1566378|Storm|Dragonfly IH Perfect Storm|2010-08-02|Buck
+|Number|ADGA_Registered_Name|Date_Of_birth|Gender
+|:----------|:-------|:-------|:-------
+|D1671697|The Critter Grove Bitsy|2014-01-05|Doe
+|D1671696|The Critter Grove Coco|2014-01-03|Doe
+|D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck
 | |Amigo|2013-03-17|Wether
 
 
