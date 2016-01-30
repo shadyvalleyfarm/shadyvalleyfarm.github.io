@@ -1,11 +1,10 @@
 ---
-layout: default
-title: (Critter Grove) Buddy
+layout: page
+title: Buddy
 group: goats
 tag: Buddy
 ---
 
-## (Critter Grove) Buddy
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
@@ -14,7 +13,7 @@ tag: Buddy
 |**Color Description:**|White Bucksin
 |**Registered:**|No
 |**Gender:**|Wether
-|**For Sale:**|Yes
+|**For Sale:**|$100.00
 
 ### Description
 

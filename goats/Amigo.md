@@ -1,20 +1,19 @@
 ---
-layout: default
-title: (RHV) Amigo
+layout: page
+title: Amigo
 group: goats
 tag: Amigo
 ---
 
-## (Critter Grove) Amigo
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
 |**Date of Birth:**|April 29, 2013
 |**Eye Color:**|Brown
-|**Color Description:**|Brown with moondpots
+|**Color Description:**|Brown with moonspots
 |**Registered:**|No
 |**Gender:**|Wether
-|**For Sale:**|No
+|**For Sale:**|$100.00
 
 ### Description
 

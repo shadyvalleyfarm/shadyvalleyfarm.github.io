@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 title: Dragonfly Shauna
 group: goats
 pedigree: yes
 tag: Dragonfly_Shauna
 ---
 
-## Dragonfly Shauna
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
@@ -14,7 +13,8 @@ tag: Dragonfly_Shauna
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|Yes
+|**For Sale:**|$400.00
+|**ADGA Gentics|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001540007)
 
 ### Description
 
@@ -25,9 +25,6 @@ down at first but kept the interest open and I was given the opportunity to purc
 another fine girl, [RHV CS Dust O'Gold](/goats/RHV_SCHR_Dust_O_Gold) who had just been weened from her mom. Shauna took Dusty
 in and treated her as her own. She protected her from the other bigger girls and they were always together. I knew I had made a good
 choice.
-
-
-Check out her pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001540007)
 
 <img src="/images/goats/Dragonfly_Shauna/1.jpg" alt="Image of Dragonfly Shauna" class="pic"/>
 <img src="/images/goats/Dragonfly_Shauna/2.jpg" alt="Image of Dragonfly Shauna" class="pic"/>

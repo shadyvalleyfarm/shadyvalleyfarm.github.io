@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 title: RHV CS Dust O'Gold
 group: goats
 pedigree: yes
 tag: RHV_CS_Dust_O_Gold
 ---
 
-## RHV CS Dust O'Gold
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
@@ -14,12 +13,12 @@ tag: RHV_CS_Dust_O_Gold
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|Yes
+|**For Sale:**|$450.00
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001682628)
 
 ### Description
 
-
-Check out her pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001682628)
+Dusty is a sweet girl. She is very bonded with Shauna and they make a perfect pair of unrelated does. She was exposed to Storm from October 21, 2015 to December 21, 2015. 
 
 <img src="/images/goats/RHV_CS_Dust_O_Gold/1.jpg" alt="Image of Dusty" />
 <img src="/images/goats/RHV_CS_Dust_O_Gold/2.jpg" alt="Image of Dusty" />

@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 title: RHV SCHR Hope on a Rope
 group: goats
 pedigree: yes
 tag: RHV_SCHR_Hope_on_a_Rope
 ---
 
-## RHV SCHR Hope on a Rope
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
@@ -14,13 +13,12 @@ tag: RHV_SCHR_Hope_on_a_Rope
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|Yes
+|**For Sale:**|$450.00
+|**ADGA Genetics Profile**:[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001637828)
 
 ### Description
 
-Hope is a new arrival. More information soon
-
-Check out her pedigree below or the [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001637828)
+Hope is a bit shy and takes a bit to warm up to being around people. With a bit of patience she will come up to you and rub her head against you and want to be petted. She has yet to produce kids for us but has been exposed to Storm between October 21, 2015 to December 21, 2015.
 
 ### Photos
 

@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 title: RHV RR D'Arcy
 group: goats
 pedigree: yes
 tag: RHV_RR_DArcy
 ---
 
-## RHV RR D'Arcy
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
@@ -14,11 +13,11 @@ tag: RHV_RR_DArcy
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|Yes
-
+|**For Sale:**|$450.00
+|**ADGA Genetics Profile:**|[Click Here]((http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001630033)
 ### Description
 
-Check out her pedigree below or the [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001630033)
+D'Arcy is a shy girl and doe have a problem being around people. She has proven to be a great dam to her girls and produced quite a bit of milk also. She will need some patience on the milk stand but she is well worth it.
 
 ### Photos
 

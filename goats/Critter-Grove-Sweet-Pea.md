@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: page
 title: Critter Grove Sweet Pea
 group: goats
 tag: Critter_Grove_Sweet_Pea
 ---
 
-## Critter Grove Sweet Pea
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
@@ -14,8 +13,8 @@ tag: Critter_Grove_Sweet_Pea
 |**Color Description:**|Silver Buckskin
 |**Registered:**|NDGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|Yes
-
+|**For Sale:**|$350.00
+|**ADGA Genetics:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001668246)
 ### Description
 
 Sweet Pea is a very appropriate name for this girl. She is calm and loves to

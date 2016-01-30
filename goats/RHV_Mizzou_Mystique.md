@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 title: RHV Mizzou Mystique
 group: goats
 pedigree: yes
 tag: RHV_Mizzou_Mystique
 ---
 
-## RHV Mizzou Mystique
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
@@ -14,7 +13,8 @@ tag: RHV_Mizzou_Mystique
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Buck
-|**For Sale:**|Yes
+|**For Sale:**|$1000.00
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001682628)
 
 ### Description
 
@@ -28,9 +28,6 @@ to seeing what he produces.
 
 In 2013 at the ADGA Spotlight Sale 2 of Mizzou's cousins sold for $2800 and $1800. In addition he is a related to
 Rosasharn SH Epic \*B who in 2011 sold for $8700.
-
-Check out his pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001630035)
-
 
 <img src="/images/goats/RHV_Mizzou_Mystique/1.jpg" alt="Image of RHV Mizzou Mystique" class="pic"/>
 

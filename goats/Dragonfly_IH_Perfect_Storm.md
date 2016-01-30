@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 title: Dragonfly IH Perfect Storm
 group: goats
 pedigree: no
 tag: Dragonfly_IH_Perfect_Storm
 ---
 
-## Dragonfly IH Perfect Storm
 | | |
 |:---|:---
 |**Breed:**|Nigerian Dwarf
@@ -14,11 +13,11 @@ tag: Dragonfly_IH_Perfect_Storm
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Buck
-|**For Sale:**|Yes
+|**For Sale:**|$500.00
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001566378)
 
 ### Description
 
-Storm is another buck we proudly purchased from <a href="http://www.redhorsevalley.com/">Red Horse Valley</a>. 
+Storm is another buck we proudly purchased from <a href="http://www.redhorsevalley.com/">Red Horse Valley</a>.  He is very friendly and easy to handle which is nice for his size (he weighed 90lbs at last weigh in). 
 
-Check out his pedigree [ADGA Genetics Profile](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001566378)
 
