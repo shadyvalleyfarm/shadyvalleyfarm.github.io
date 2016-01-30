@@ -34,29 +34,29 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 Priced separately these 21 goats total $7600.00. This is a significant discount.  Note: If I sell one or two low valued goats from this list the price may not
 change any since there is already a large discount.
 
-|Number|ADGA_Registered_Name|Date_Of_birth|Gender|Price|Notes
+|Number|ADGA_Registered_Name|Date_Of_birth|Gender|Price
 |:----------|:-------|:-------|:-------|:-------|:-------
-|D1722345|Shady Valley Dancy|2015-03-20|Doe|$400.00|Shy with people but warms up quickly
-|D1720517|Shady Valley Fawn|2015-03-18|Doe|$400.00|Loves attention but has her moments of shyness
-|D1687102|Shady Valley Babs|2014-04-24|Doe|$400.00|Exposed to Storm on 2015-10-20. Not confirmed. She is very very shy. Does not like being around people.
-|D1691523|Critter Grove Evening Shade|2014-01-01|Doe|$350.00|Pretty friendly but likes to be alone. Can be bossy
-|D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00|Friendly and likes to be around people. Mother of Baxter.
-|D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00|She's very friendly. She likes attention.
-|D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00|Friendly, but likes to be alone
-|D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|$350.00|Friendly but bossy. She's mother of Babs, Roger, Buster, and Fawn.
-|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Friendly after warming up to you. Bonded very closely with Shauna
-|D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00|Exposed to Storm on 2015-10-20. Not confirmed. Shy but friendly.
-|D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00|A little shy with people unless food is involved. Mother of Dancy
-|D1547724|Dragonfly T Vermeil|2011-03-15|Doe|$400.00|Exposed to Storm on 2015-10-20. Not confirmed. Only half udder is working.  Very friendly and likes to be around people. Likes to have her head scratched. She is one of my all time favorite goats. She has a nick name of "big momma" and has a personality everyone likes. She is getting up there and age and may not be breedable for more than another season or two, however, she makes a great herd companion and farm pet.
-|D1540007|Dragonfly Shauna|2010-03-10|Doe|$400.00|Exposed to Storm on 2015-10-20. Not confirmed. Very friendly and motherly. Tends to be a loner away from other goats except Dusty. She acts like a mom to dusty even though they aren't related. Like Mei she's getting up there in age but is a great herd companion and farm pet.
-|D1687189|RHV CS Frodo|2014-04-13|Buck|$500.00|Enjoys attention from people
-|D1630035|RHV Mizzou Mystique|2013-03-19|Buck|$1000.00|Friendly, likes attention. Has great bloodlines.
-|D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00|Friendly and has great bloodlines
-| |Shady Valley Roger |2014-04-24|Wether|$100.00|Friendliest of all the goats. The complete opposite of his sister babs. He would rather be around people than other goats.
-| |Shady Valley Buster|2014-04-24|Wether|$100.00|Roger's brother. They are very close and tend to stay together
-| |Shady Valley Baxter|2015-04-18|Wether|$100.00|Very little and shy. Tends to stick with his dam, Liz.
-| |Amigo|2013-03-17|Wether|$100.00|Friendly and playful. Likes to unzip things. Great companion to the bucks
-| |Buddy|2013-05-29|Wether|$100.00|Has a scur. Can be a bully when with does but makes a good buck companion. He's full brother to Sweet Pea and half to Liz, Coco, Bitsy, Eve
+|D1722345|Shady Valley Dancy|2015-03-20|Doe|$400.00
+|D1720517|Shady Valley Fawn|2015-03-18|Doe|$400.00
+|D1687102|Shady Valley Babs|2014-04-24|Doe|$400.00
+|D1691523|Critter Grove Evening Shade|2014-01-01|Doe|$350.00
+|D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00
+|D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00
+|D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00
+|D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|$350.00
+|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00
+|D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00
+|D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00
+|D1547724|Dragonfly T Vermeil|2011-03-15|Doe|$400.00
+|D1540007|Dragonfly Shauna|2010-03-10|Doe|$400.00
+|D1687189|RHV CS Frodo|2014-04-13|Buck|$500.00
+|D1630035|RHV Mizzou Mystique|2013-03-19|Buck|$1000.00
+|D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00
+| |Shady Valley Roger |2014-04-24|Wether|$100.00
+| |Shady Valley Buster|2014-04-24|Wether|$100.00
+| |Shady Valley Baxter|2015-04-18|Wether|$100.00
+| |Amigo|2013-03-17|Wether|$100.00
+| |Buddy|2013-05-29|Wether|$100.00
 
 ## Select Groups
 
@@ -125,7 +125,7 @@ This group includes 2 sisters and a buck with a whether
 # Individual Sales
 
 I am beginning to accept requests for individual goats, however, I'll give preference to group purchses.  I won't sell a goat to live alone. Goats need companionship of other goats in order to be happy. There is
-an old saying "A lonely goat is a dead goat."   Wethers make great pets and are better pets than does. Please consider this when asking about does as pets.
+an old saying "A lonely goat is a dead goat."   Wethers make great pets and are better pets than does. Please consider this when asking about does as pets.  Multiple purchase discounts will be applied.
 
 Please keep in mind that my goal is to sell the entire herd before the end of February. I have some individual goats who I get constant requests for and others with very little interest. If you're willing to take a low interest goat (such 
 as a wether or older doe) I'll make a better deal than just the high demand goats.  I don't want to be stuck with one or two goats with no demand.
@@ -137,6 +137,8 @@ The information on this site is a bit dated. Not all goats are listed under "Goa
 All goats are due for CD&T shots in March 2016. Hooves were trimmed in December 2015. I do random fecals to test for internal parasites.
 
 # Contact
+
+When inquiring about pricing please be sure to include names of the goats you are interested in. 
 
 <form action="http://formspree.io/wes0209@yahoo.com" method="POST">
   <p>Email:&nbsp;&nbsp;&nbsp; <input type="email" name="_replyto"></p>
