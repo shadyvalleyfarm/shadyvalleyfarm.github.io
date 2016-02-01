@@ -29,5 +29,8 @@ to seeing what he produces.
 In 2013 at the ADGA Spotlight Sale 2 of Mizzou's cousins sold for $2800 and $1800. In addition he is a related to
 Rosasharn SH Epic \*B who in 2011 sold for $8700.
 
+### Photos
+
 <img src="/images/goats/RHV_Mizzou_Mystique/1.jpg" alt="Image of RHV Mizzou Mystique" class="pic"/>
+<hr>
 

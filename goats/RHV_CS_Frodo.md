@@ -20,3 +20,7 @@ tag: RHV_CS_Frodo
 
 Frodo is our youngest buck and another buck we proudly purchased from Red Horse Valley. He is exceptionally friendly and enjoys playing with other bucks.  When he is going after a doe he likes to make a noise which sounds just like "I love you." It is quite entertaining to watch. The spring 2015 season was fortunate for him. He throw some very colorful kids. 
 
+
+### Photos
+
+Coming soon

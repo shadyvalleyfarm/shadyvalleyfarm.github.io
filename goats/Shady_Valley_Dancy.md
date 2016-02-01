@@ -13,9 +13,11 @@ group: goats
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|$400.00
-|**ADGA Genetics:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001722345)
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001722345)
 ### Description
 
 Dancy is sweet but shy like her dam, D'Arcy. She's white with a black cape.  
 
+### Photos
 
+Coming soon

@@ -16,3 +16,7 @@ group: goats
 ### Description
 
 Roger is super friendly and playful. He enjoys jumping up on people and rubbing his head against them. He is really affectionate and would make a great pet. He's bonded with his brother and they make a great pair.
+
+### Photos
+
+Coming soon

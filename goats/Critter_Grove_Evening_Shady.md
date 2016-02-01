@@ -13,9 +13,11 @@ group: goats
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|$350.00
-|**ADGA Genetics:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001691523)
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001691523)
 ### Description
 
 Eve is a pretty sweet goat. She has ncie colors and produce two boys her first kidding.
 
+### Photos
 
+Coming soon

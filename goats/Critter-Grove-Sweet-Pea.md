@@ -14,7 +14,7 @@ tag: Critter_Grove_Sweet_Pea
 |**Registered:**|NDGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|$350.00
-|**ADGA Genetics:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001668246)
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001668246)
 ### Description
 
 Sweet Pea is a very appropriate name for this girl. She is calm and loves to

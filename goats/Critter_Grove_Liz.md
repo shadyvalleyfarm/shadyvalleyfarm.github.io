@@ -13,7 +13,7 @@ group: goats
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|$350.00
-|**ADGA Genetics:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001671698)
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001671698)
 ### Description
 
 Liz is a pretty friendly goat. She will sometimes tap your boot with her hoof. She likes to do that before she jumps up on you. I think it is because she's asking permission. She gave birth two a beautiful boy and girl in 2015.

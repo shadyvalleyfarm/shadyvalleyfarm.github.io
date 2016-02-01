@@ -13,7 +13,7 @@ group: goats
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|$350.00
-|**ADGA Genetics:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001671696)
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001671696)
 ### Description
 
 Coco is a pretty friendly goat. She gave birth to a beautiful girl who was named "Puffs"

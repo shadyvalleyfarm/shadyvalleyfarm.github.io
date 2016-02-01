@@ -13,9 +13,11 @@ group: goats
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|$400.00
-|**ADGA Genetics:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001687102)
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001687102)
 ### Description
 
 Fawn is Sweet Pea's first kid. She is pretty shy and unlike her brother Roger takes a while to warm up to you. She was exposed to Storm between October 21, 2015 and December 21, 2015. 
 
+### Photos
 
+coming soon

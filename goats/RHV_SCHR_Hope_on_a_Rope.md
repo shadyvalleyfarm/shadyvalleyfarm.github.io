@@ -22,5 +22,7 @@ Hope is a bit shy and takes a bit to warm up to being around people. With a bit 
 
 ### Photos
 
+Coming soon
+
 <!--<img src="/images/goats/RHV_SCHR_Hope_on_a_Rope/1.jpg" alt="Image of RHV SCHR Hope on a Rope" class="pic"/>
 -->
