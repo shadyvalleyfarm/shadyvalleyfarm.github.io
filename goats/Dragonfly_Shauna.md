@@ -14,7 +14,7 @@ tag: Dragonfly_Shauna
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|$400.00
-|**ADGA Gentics|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001540007)
+|**ADGA Gentics:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001540007)
 
 ### Description
 
