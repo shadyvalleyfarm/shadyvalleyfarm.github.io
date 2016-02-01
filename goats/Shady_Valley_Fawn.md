@@ -18,4 +18,8 @@ group: goats
 
 Fawn is Sweet Pea's forth kid and is playful but like her dam marches to the beat of her own drum. She's often out alone eating away from the others. At least until the others figure out that she's found "the good stuff" and they run towards her and joins her. 
 
+### Photos
+
+<img src="/images/goatts/Fawn/1.jpg" alt="Image of Fawn" class="pic"/>
+<hr>
 
