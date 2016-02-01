@@ -27,8 +27,8 @@ She is one of my favorite goats. She just has a personality that will win you ov
 
 <img src="/images/goats/Dragonfly_T_Vermeil/1.jpg" alt="Image of Dragonfly T Vermeil" class="pic"/>
 <hr>
-<img src="/images/goatts/Mei/1.jpg" alt="Image of Dragonfly T Vermeil" class="pic"/>
+<img src="/images/goats/Mei/1.jpg" alt="Image of Dragonfly T Vermeil" class="pic"/>
 <hr>
-<img src="/images/goatts/Mei/2.jpg" alt="Image of Dragonfly T Vermeil" class="pic"/>
+<img src="/images/goats/Mei/2.jpg" alt="Image of Dragonfly T Vermeil" class="pic"/>
 <hr>
 
