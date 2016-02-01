@@ -14,7 +14,7 @@ tag: RHV_RR_DArcy
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|$450.00
-|**ADGA Genetics Profile:**|[Click Here]((http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001630033)
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001630033)
 ### Description
 
 D'Arcy is a shy girl and doe have a problem being around people. She has proven to be a great dam to her girls and produced quite a bit of milk also. She will need some patience on the milk stand but she is well worth it.
