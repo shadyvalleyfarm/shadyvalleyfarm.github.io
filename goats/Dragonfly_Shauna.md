@@ -26,7 +26,15 @@ another fine girl, [RHV CS Dust O'Gold](/goats/RHV_SCHR_Dust_O_Gold) who had jus
 in and treated her as her own. She protected her from the other bigger girls and they were always together. I knew I had made a good
 choice.
 
-<img src="/images/goats/Dragonfly_Shauna/1.jpg" alt="Image of Dragonfly Shauna" class="pic"/>
-<img src="/images/goats/Dragonfly_Shauna/2.jpg" alt="Image of Dragonfly Shauna" class="pic"/>
+<img src="/images/goatts/Shauna/1.jpg" alt="Image of Shauna" class="pic"/>
+<hr>
+<img src="/images/goatts/Shauna/2.jpg" alt="Image of Shauna" class="pic"/>
+<hr>
+<img src="/images/goatts/Shauna/3.jpg" alt="Image of Shauna" class="pic"/>
+<hr>
+<img src="/images/goatts/Shauna/4.jpg" alt="Image of Shauna" class="pic"/>
+<hr>
+<img src="/images/goatts/Shauna/5.jpg" alt="Image of Shauna" class="pic"/>
+<hr>
 
 

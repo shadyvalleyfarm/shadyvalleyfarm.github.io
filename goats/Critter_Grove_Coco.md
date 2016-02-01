@@ -16,4 +16,11 @@ group: goats
 |**ADGA Genetics:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001671696)
 ### Description
 
-Coco is a pretty friendly goat. She gave birth to a beautiful girl who was named "Puffs?
+Coco is a pretty friendly goat. She gave birth to a beautiful girl who was named "Puffs"
+
+<img src="/images/goats/Coco/1.jpg" alt="Image of Coco" class="pic"/>
+<hr>
+<img src="/images/goats/Coco/2.jpg" alt="Image of Coco" class="pic"/>
+<hr>
+<img src="/images/goats/Coco/3.jpg" alt="Image of Coco" class="pic"/>
+

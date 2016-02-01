@@ -21,5 +21,10 @@ D'Arcy is a shy girl and doe have a problem being around people. She has proven 
 
 ### Photos
 
-<!--<img src="/images/goats/RHV_RR_DArcy/1.jpg" alt="Image of RHV RR D'Arcy" class="pic"/>
--->
+<img src="/images/goats/DArcy/1.jpg" alt="Image of RHV RR D'Arcy" class="pic"/>
+<hr>
+<img src="/images/goats/DArcy/2.jpg" alt="Image of RHV RR D'Arcy" class="pic"/>
+<hr>
+<img src="/images/goats/DArcy/3.jpg" alt="Image of RHV RR D'Arcy" class="pic"/>
+<hr>
+

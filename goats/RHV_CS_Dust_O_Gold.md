@@ -20,7 +20,10 @@ tag: RHV_CS_Dust_O_Gold
 
 Dusty is a sweet girl. She is very bonded with Shauna and they make a perfect pair of unrelated does. She was exposed to Storm from October 21, 2015 to December 21, 2015. 
 
-<img src="/images/goats/RHV_CS_Dust_O_Gold/1.jpg" alt="Image of Dusty" />
-<img src="/images/goats/RHV_CS_Dust_O_Gold/2.jpg" alt="Image of Dusty" />
-
+<img src="/images/goats/DArcy/1.jpg" alt="Image of RHV RR D'Arcy" class="pic"/>
+<hr>
+<img src="/images/goats/DArcy/2.jpg" alt="Image of RHV RR D'Arcy" class="pic"/>
+<hr>
+<img src="/images/goats/DArcy/3.jpg" alt="Image of RHV RR D'Arcy" class="pic"/>
+<hr>
 

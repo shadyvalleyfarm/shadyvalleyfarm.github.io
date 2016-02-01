@@ -16,4 +16,6 @@ group: goats
 |**ADGA Genetics:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001691523)
 ### Description
 
-Even is a pretty sweet goat. She has ncie colors and produce two boys her first kidding.
+Eve is a pretty sweet goat. She has ncie colors and produce two boys her first kidding.
+
+
