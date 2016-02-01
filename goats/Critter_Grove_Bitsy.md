@@ -13,7 +13,7 @@ group: goats
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|$350.00
-|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001671697){:target="_blank"}
+|**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001671697)
 ### Description
 
 Bitsy is super friendly and will jump up on you to get some good head rubbbing. She will usually follow me around and sometimes even go inside the house with me. 
