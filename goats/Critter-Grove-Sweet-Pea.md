@@ -11,7 +11,7 @@ tag: Critter_Grove_Sweet_Pea
 |**Date of Birth:**|December 10, 2012
 |**Eye Color:**|Blue
 |**Color Description:**|Silver Buckskin
-|**Registered:**|NDGA, AGS
+|**Registered:**|ADGA, AGS
 |**Gender:**|Doe
 |**For Sale:**|$350.00
 |**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001668246)
