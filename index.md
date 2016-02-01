@@ -23,13 +23,13 @@ a few family units who have a strong bond and get along well with each other and
 The entire herd consists of 13 does, 3 bucks, and 5 wethers.  I was going to begin DHI and LA in 2016, however, this will not be
 happening now. 
 
-The following table lists the entire herd with individual asking prices. The entire herd may be purchased for $5000.00 as a whole.
+The following table lists the entire herd with individual asking prices. The entire herd may be purchased for $4500.00 as a whole.
 
 This list is missing some data just because I am lazy and have not had a chance to dig through all my paperwork
 
 Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA information is listed below
 
-## Entire Herd Package - $5000.00
+## Entire Herd Package - $4500.00
 
 Priced separately these 21 goats total $7600.00. This is a significant discount.  Note: If I sell one or two low valued goats from this list the price may not
 change any since there is already a large discount.
