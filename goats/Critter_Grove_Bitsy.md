@@ -17,3 +17,14 @@ group: goats
 ### Description
 
 Bitsy is super friendly and will jump up on you to get some good head rubbbing. She will usually follow me around and sometimes even go inside the house with me. 
+
+### Photos
+
+<img src="/images/goats/Bitsy/1.jpg" alt="Image of Bitsy" class="pic"/>
+<hr>
+<img src="/images/goats/Bitsy/2.jpg" alt="Image of Bitsy" class="pic"/>
+<hr>
+<img src="/images/goats/Bitsy/3.jpg" alt="Image of Bitsy" class="pic"/>
+<hr>
+
+

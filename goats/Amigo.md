@@ -21,5 +21,5 @@ Amigo is the companion of [Mizzou](/goats/RHV_Mizzou_Mystique).
 
 ### Photos
 
-Check back soon
+<img src="/images/goats/Amigo/1.jpg" alt="Image of Amigo" class="pic"/>
 

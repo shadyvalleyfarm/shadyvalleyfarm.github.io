@@ -16,3 +16,13 @@ group: goats
 ### Description
 
 Buster is a growing boy who enjoys spending time with his brother Roger.
+
+### Photos
+
+<img src="/images/goats/Buster/1.jpg" alt="Image of Buster" class="pic"/>
+<hr>
+<img src="/images/goats/Buster/2.jpg" alt="Image of Buster" class="pic"/>
+<hr>
+<img src="/images/goats/Buster/3.jpg" alt="Image of Buster" class="pic"/>
+<hr>
+
