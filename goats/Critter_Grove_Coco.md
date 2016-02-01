@@ -18,6 +18,8 @@ group: goats
 
 Coco is a pretty friendly goat. She gave birth to a beautiful girl who was named "Puffs"
 
+### Photos
+
 <img src="/images/goats/Coco/1.jpg" alt="Image of Coco" class="pic"/>
 <hr>
 <img src="/images/goats/Coco/2.jpg" alt="Image of Coco" class="pic"/>
