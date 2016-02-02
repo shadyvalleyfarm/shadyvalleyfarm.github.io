@@ -132,16 +132,33 @@ as a wether or older doe) I'll make a better deal than just the high demand goat
 
 I have more in each goat than they are individually priced. I'm taking a huge loss on this herd but I need to move them soon. 
 
-The information on this site is a bit dated. Not all goats are listed under "Goats"  but the above table is up-to-date and accurate. I'll be updating pics and information on individual goat pages as time permits.
+Some of the information on this site is a bit dated. Not all goats are listed under "Goats"  but the above table is up-to-date and accurate. I'll be updating pics and information on individual goat pages as time permits.
 
-All goats are due for CD&T shots in March 2016. Hooves were trimmed in December 2015. I do random fecals to test for internal parasites.
+All goats are due for CD&T shots in March 2016. Hooves were trimmed in December 2015. I do random fecals to test for internal parasites. See below for more specifics.
 
 # Contact
 
-When inquiring about pricing please be sure to include names of the goats you are interested in. 
+When inquiring about group pricing please be sure to include names of the goats you are interested in. 
 
 <form action="http://formspree.io/wes0209@yahoo.com" method="POST">
   <p>Email:&nbsp;&nbsp;&nbsp; <input type="email" name="_replyto"></p>
   <p>Message: <textarea name="body" cols='50' rows='15'></textarea></p>
   <input type="submit" value="Send">
 </form>
+
+# Additional Information
+
+## Herd Health
+
+This herd routinely receives fecal examinations. Both in house and randomly selected goat's fecals are tested by a veterinarian.  CAE and CL tests have been negative. A herd this size is costly to test the full herd annually for CAE and CL. Goats are tested when brought into the herd, they come from herds who also test negative, and randomly selected goats are tested throughout the year. 
+
+All goats receive an annual CD&T vacination.   
+
+Probiotics are provided regularly and the diet is varied in order to keep the flora in the goat's rumen familiar with a variety of foods.  Premium Chaffhaye hay is provided on a regular basis along with
+dry alfalfa, roughage, and whatever they find when out browsing.  Grain is generally avoided however it is feed occassinally to keep the flora used to it and to help prevent bloat if ending up on a grain fed farm.
+
+I have had my share of unexpected deaths and in all cases have had a necropsy performed to know the actual cause of death.  A lot of breeders will just say they have only had goats die from "bloat" which unfortunately is not a very good diagnosis since most dead goats will look bloated.  We have had goats die from various reasons including copper toxicosis (too much copper - never did find the source) and a sudden parasite outbreak. 
+
+I'm happy to discuss any health concerns and provide test results.  Some tests have been performed by local veterinarian and others by the University of Missouri Veterinary Services Laboratory. 
+
+
