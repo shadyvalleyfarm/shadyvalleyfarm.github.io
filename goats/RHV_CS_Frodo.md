@@ -23,4 +23,5 @@ Frodo is our youngest buck and another buck we proudly purchased from Red Horse 
 
 ### Photos
 
-Coming soon
+<img src="/images/goats/Frodo/1.jpg" alt="Image of Frodo" class="pic"/>
+

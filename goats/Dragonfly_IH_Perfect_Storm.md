@@ -22,4 +22,7 @@ Storm is another buck we proudly purchased from <a href="http://www.redhorsevall
 
 ### Photos
 
-Coming soon
+<img src="/images/goats/Storm/1.jpg" alt="Image of Storm" class="pic"/>
+<hr>
+<img src="/images/goats/Storm/1.jpg" alt="Image of Storm" class="pic"/>
+
