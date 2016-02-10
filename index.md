@@ -121,6 +121,13 @@ This group includes 2 sisters and a buck with a whether
 |D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck
 | |Amigo|2013-03-17|Wether
 
+### Pregnacy 
+
+Five of the does were exposed to Dragonfly IH Perfect Storm (D1566378) for 2 months starting on October 21, 2015 ending on December 21, 2015.  Those does are Dragonfly T Vermeil (D1547724), Dragonfly Shauna (D1540007), RHV SCHR Hope on a Rope (D1637828), Shady Valley Babs (D1687102), and RHV CS Dust O'Gold (D1682628).  They all are showing signs of being pregnant with some more than others. I have *NOT* had any blood work done to confirm pregnancy. They are being sold as "exposed but not confirmed" which means I make absolutely *NO GUARANTEE OF PREGNANCY*.  
+ 
+If you want blood work done to confirm this please contact me and we can discuss but please understand that even with test results which indicate pregnancy it can still be a failure or issues during birth.
+
+I expect kidding to start as early as March 10, 2016. 
 
 # Individual Sales
 
