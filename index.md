@@ -44,13 +44,13 @@ change any since there is already a large discount.
 |D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00
 |D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00
 |D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|$350.00
-|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00
+|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00(Deposit Pending)
 |D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00
 |D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00
 |D1547724|Dragonfly T Vermeil|2011-03-15|Doe|$400.00
 |D1540007|Dragonfly Shauna|2010-03-10|Doe|$400.00
 |D1687189|RHV CS Frodo|2014-04-13|Buck|$500.00
-|D1630035|RHV Mizzou Mystique|2013-03-19|Buck|$1000.00
+|D1630035|RHV Mizzou Mystique|2013-03-19|Buck|$1000.00(Deposit Pending)
 |D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00
 | |Shady Valley Roger |2014-04-24|Wether|$100.00
 | |Shady Valley Buster|2014-04-24|Wether|$100.00
@@ -87,19 +87,11 @@ This group includes a non-related buck (except for Baxter who is Frodo's son). B
 |D1671698|The Critter Grove Liz|2014-01-05|Doe
 | |Shady Valley Baxter|2015-04-18|Wether
 
-### Group 3 - $1500.00
+### Group 3 - N/A
 
-This group includes Shauna and Dusty who are well bonded and Mizzou my most often inquired about buck. Buddy is included as a companion for Mizzou
+Individuals from this group are pending purchase. I have moved the remainders into the group below.
 
-|Number|ADGA_Registered_Name|Date_Of_birth|Gender
-|:----------|:-------|:-------|:-------
-|D1540007|Dragonfly Shauna|2010-03-10|Doe
-|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe
-|D1630035|RHV Mizzou Mystique|2013-03-19|Buck
-| |Shady Valley Buddy|2013-05-29|Wether
-
-
-### Group 4 - $1000.00
+### Group 4 - $1500.00
 
 This group includes Hope and D'Arcy who are bonded along with Mei and Sweet Pea.
 
@@ -109,6 +101,9 @@ This group includes Hope and D'Arcy who are bonded along with Mei and Sweet Pea.
 |D1630033|RHV RR D'arcy|2013-03-18|Doe
 |D1547724|Dragonfly T Vermeil|2011-03-15|Doe
 |D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe
+|D1540007|Dragonfly Shauna|2010-03-10|Doe
+| |Shady Valley Buddy|2013-05-29|Wether
+
 
 ### Group 5 - $1000.00
 
