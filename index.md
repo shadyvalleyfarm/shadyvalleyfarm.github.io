@@ -32,7 +32,7 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 ## Entire Herd Package - $4500.00
 
 Priced separately these 21 goats total $7600.00. This is a significant discount.  Note: If I sell one or two low valued goats from this list the price may not
-change any since there is already a large discount.
+change any since there is already a large discount. Note: Two of these goats are sale pending. Once they are sold the total price will be adjusted. 
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender|Price
 |:----------|:-------|:-------|:-------|:-------|:-------
