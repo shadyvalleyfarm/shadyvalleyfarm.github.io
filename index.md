@@ -29,7 +29,7 @@ This list is missing some data just because I am lazy and have not had a chance 
 
 Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA information is listed below
 
-## Entire Herd Package - $4500.00
+## Entire Herd Package - $4500.00 (No longer available)
 
 Priced separately these 21 goats total $7600.00. This is a significant discount.  Note: If I sell one or two low valued goats from this list the price may not
 change any since there is already a large discount. Note: Two of these goats are sale pending. Once they are sold the total price will be adjusted. 
@@ -63,66 +63,32 @@ change any since there is already a large discount. Note: Two of these goats are
 I'm grouping together smaller groups of goats. These groups are discounted.  I would consider swapping around some goats in these groups, however, the reason I'm selling is because
 I can not keep them I will not put myself in a situation to end up with one or two goats who can't be sold. So please keep this in mind when inquiring. 
 
-### Group 1 - $700.00
+### Group 1 - $1100.00
 
-This is good group for those wanting to just get a couple of does to start out with and some companion wethers.  I am willing to put Storm into this group for a total of $1000.00.
+This group includes 3 does and 1 buck. Fawn is the niece of Coco other than that they are unrelated.
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender
 |:----------|:-------|:-------|:-------
 |D1722345|Shady Valley Dancy|2015-03-20|Doe
+|D1671696|The Critter Grove Coco|2014-01-03|Doe
 |D1720517|Shady Valley Fawn|2015-03-18|Doe
-| |Shady Valley Roger|2014-04-24|Wether
-| |Shady Valley Buster|2014-04-24|Wether
+|D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck
 
 
 ### Group 2 - $1000.00
 
-This group includes a non-related buck (except for Baxter who is Frodo's son). Baxter is small and does well with his dam Liz. I want to keep these two together.
+This group just includes 4 does including 3 half sisters.
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender
 |:----------|:-------|:-------|:--------
 |D1691523|Critter Grove Evening Shade|2014-01-01|Doe
-|D1687189|RHV CS Frodo|2014-04-13|Buck
-|D1687102|Shady Valley Babs|2014-04-24|Doe
-|D1671698|The Critter Grove Liz|2014-01-05|Doe
-| |Shady Valley Baxter|2015-04-18|Wether
-
-### Group 3 - N/A
-
-Individuals from this group are pending purchase. I have moved the remainders into the group below.
-
-### Group 4 - $1500.00
-
-This group includes Hope and D'Arcy who are bonded along with Mei and Sweet Pea.
-
-|Number|ADGA_Registered_Name|Date_Of_birth|Gender
-|:----------|:-------|:-------|:-------
-|D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe
 |D1630033|RHV RR D'arcy|2013-03-18|Doe
-|D1547724|Dragonfly T Vermeil|2011-03-15|Doe
 |D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe
-|D1540007|Dragonfly Shauna|2010-03-10|Doe
-| |Shady Valley Buddy|2013-05-29|Wether
-
-
-### Group 5 - $1000.00
-
-This group includes 2 sisters and a buck with a whether
-
-|Number|ADGA_Registered_Name|Date_Of_birth|Gender
-|:----------|:-------|:-------|:-------
 |D1671697|The Critter Grove Bitsy|2014-01-05|Doe
-|D1671696|The Critter Grove Coco|2014-01-03|Doe
-|D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck
-| |Amigo|2013-03-17|Wether
 
 ### Pregnacy 
 
-Five of the does were exposed to Dragonfly IH Perfect Storm (D1566378) for 2 months starting on October 21, 2015 ending on December 21, 2015.  Those does are Dragonfly T Vermeil (D1547724), Dragonfly Shauna (D1540007), RHV SCHR Hope on a Rope (D1637828), Shady Valley Babs (D1687102), and RHV CS Dust O'Gold (D1682628).  They all are showing signs of being pregnant with some more than others. I have *NOT* had any blood work done to confirm pregnancy. They are being sold as "exposed but not confirmed" which means I make absolutely *NO GUARANTEE OF PREGNANCY*.  
- 
-If you want blood work done to confirm this please contact me and we can discuss but please understand that even with test results which indicate pregnancy it can still be a failure or issues during birth.
-
-I expect kidding to start as early as March 10, 2016. 
+All pregnant does are reserved.
 
 # Individual Sales
 
