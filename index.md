@@ -29,12 +29,10 @@ This list is missing some data just because I am lazy and have not had a chance 
 
 Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA information is listed below
 
-## Entire Herd Package - $4500.00 (No longer available)
+## Entire Herd Package
 
-Priced separately these 21 goats total $7600.00. This is a significant discount.  Note: If I sell one or two low valued goats from this list the price may not
-change any since there is already a large discount. 
+The goats remaining without a deposit may be purchased together for $2000.00 or see the groups of 4 below or inquire about sales of 1 or 2 together.
 
-This large group is no longer available. The list remains for reference only. 
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender|Price
 |:----------|:-------|:-------|:-------|:-------|:-------
@@ -77,7 +75,7 @@ This group includes 3 does and 1 buck. Fawn is the niece of Coco other than that
 |D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck
 
 
-### Group 2 - $1000.00
+### Group 2 - $1100.00
 
 This group just includes 4 does including 3 half sisters.
 
