@@ -12,7 +12,7 @@ group: goats
 |**Color Description:**|white and black buckskin
 |**Registered:**|ADGA(Identification Only)
 |**Gender:**|Wether
-|**For Sale:**|$100.00
+|**For Sale:**|$100.000(Deposit Pending)
 ### Description
 
 Buster is a growing boy who enjoys spending time with his brother Roger.

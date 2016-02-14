@@ -13,7 +13,7 @@ tag: RHV_Mizzou_Mystique
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Buck
-|**For Sale:**|$1000.00
+|**For Sale:**|$1000.00(Deposit Received)
 |**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001682628)
 
 ### Description

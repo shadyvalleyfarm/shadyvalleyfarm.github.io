@@ -12,7 +12,7 @@ group: goats
 |**Color Description:**|Brown and black buckskin
 |**Registered:**|ADGA(Identification Only)
 |**Gender:**|Wether
-|**For Sale:**|$100.00
+|**For Sale:**|$100.000(Deposit Pending)
 ### Description
 
 This small little boy is closely bonded to his mom, Liz. He is a bit shy but likes to be held.

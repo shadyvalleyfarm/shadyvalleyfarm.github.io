@@ -13,7 +13,7 @@ tag: RHV_SCHR_Hope_on_a_Rope
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|$450.00
+|**For Sale:**|$450.00(Deposit Pending)
 |**ADGA Genetics Profile**:[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001637828)
 
 ### Description
