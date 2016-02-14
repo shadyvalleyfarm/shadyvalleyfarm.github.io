@@ -38,25 +38,26 @@ change any since there is already a large discount. Note: Two of these goats are
 |:----------|:-------|:-------|:-------|:-------|:-------
 |D1722345|Shady Valley Dancy|2015-03-20|Doe|$400.00
 |D1720517|Shady Valley Fawn|2015-03-18|Doe|$400.00
-|D1687102|Shady Valley Babs|2014-04-24|Doe|$400.00
+|D1687102|Shady Valley Babs|2014-04-24|Doe|$400.00(Deposit Pending)
 |D1691523|Critter Grove Evening Shade|2014-01-01|Doe|$350.00
-|D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00
+|D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00(Deposit Pending)
 |D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00
 |D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00
 |D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|$350.00
-|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00(Deposit Pending)
-|D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00
+|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00(Deposit Received)
+|D1687189|RHV CS Frodo|2014-04-13|$500(Deposit Received)
+|D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00(Deposit Pending)
 |D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00
-|D1547724|Dragonfly T Vermeil|2011-03-15|Doe|$400.00
-|D1540007|Dragonfly Shauna|2010-03-10|Doe|$400.00
-|D1687189|RHV CS Frodo|2014-04-13|Buck|$500.00
-|D1630035|RHV Mizzou Mystique|2013-03-19|Buck|$1000.00(Deposit Pending)
+|D1547724|Dragonfly T Vermeil|2011-03-15|Doe|$400.00(Deposit Pending)
+|D1540007|Dragonfly Shauna|2010-03-10|Doe|$400.00(Deposit Pending)
+|D1687189|RHV CS Frodo|2014-04-13|Buck|$500.00(Deposit Pending)
+|D1630035|RHV Mizzou Mystique|2013-03-19|Buck|$1000.00(Deposit Received))
 |D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00
-| |Shady Valley Roger |2014-04-24|Wether|$100.00
-| |Shady Valley Buster|2014-04-24|Wether|$100.00
-| |Shady Valley Baxter|2015-04-18|Wether|$100.00
-| |Amigo|2013-03-17|Wether|$100.00
-| |Buddy|2013-05-29|Wether|$100.00
+| |Shady Valley Roger |2014-04-24|Wether|$100.00(Deposit Pending)
+| |Shady Valley Buster|2014-04-24|Wether|$100.00(Deposit Pending)
+| |Shady Valley Baxter|2015-04-18|Wether|$100.00(Deposit Pending)
+| |Amigo|2013-03-17|Wether|$100.00(Deposit Pending)
+| |Buddy|2013-05-29|Wether|$100.00(Deposit Pending)
 
 ## Select Groups
 
