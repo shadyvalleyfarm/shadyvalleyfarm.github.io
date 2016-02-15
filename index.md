@@ -44,8 +44,8 @@ sales in case those buyers back out or if they delay too long.
 |D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|$350.00
 |D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00
 |D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00
-|D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00(Sale Pending)
-|D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00(Sale Pending)
+|D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00(Sold)
+|D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00(Sold)
 |D1687102|Shady Valley Babs|2014-04-24|Doe|$400.00(Deposit Pending)
 |D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00(Deposit Pending)
 |D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00(Deposit Received)

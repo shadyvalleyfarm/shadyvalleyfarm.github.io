@@ -12,7 +12,7 @@ group: goats
 |**Color Description:**|Brown and Black
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|$350.00
+|**For Sale:**|$350.00(Sold)
 |**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001671696)
 ### Description
 

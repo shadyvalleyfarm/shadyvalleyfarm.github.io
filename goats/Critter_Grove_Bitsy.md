@@ -12,7 +12,7 @@ group: goats
 |**Color Description:**|White Buckskin
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|$350.00
+|**For Sale:**|$350.00(Sold)
 |**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001671697)
 ### Description
 
