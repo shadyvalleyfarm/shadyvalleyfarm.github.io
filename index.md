@@ -31,19 +31,18 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 
 ## Entire Herd Package
 
-The goats remaining without a deposit may be purchased together for $2000.00 or see the groups of 4 below or inquire about sales of 1 or 2 together.
-
+The goats remaining without a deposit may be purchased together for $1600.00 or see the groups of 4 below or inquire about sales of 1 or 2 together.
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender|Price
 |:----------|:-------|:-------|:-------|:-------|:-------
 |D1722345|Shady Valley Dancy|2015-03-20|Doe|$400.00
 |D1720517|Shady Valley Fawn|2015-03-18|Doe|$400.00
 |D1691523|Critter Grove Evening Shade|2014-01-01|Doe|$350.00
-|D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00
-|D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00
 |D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|$350.00
 |D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00
 |D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00
+|D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00(Sale Pending)
+|D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00(Sale Pending)
 |D1687102|Shady Valley Babs|2014-04-24|Doe|$400.00(Deposit Pending)
 |D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00(Deposit Pending)
 |D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00(Deposit Received)
@@ -63,28 +62,26 @@ The goats remaining without a deposit may be purchased together for $2000.00 or 
 I'm grouping together smaller groups of goats. These groups are discounted.  I would consider swapping around some goats in these groups, however, the reason I'm selling is because
 I can not keep them I will not put myself in a situation to end up with one or two goats who can't be sold. So please keep this in mind when inquiring. 
 
-### Group 1 - $1100.00
+### Group 1 - $900.00
 
-This group includes 3 does and 1 buck. Fawn is the niece of Coco other than that they are unrelated.
+This group includes 2 does and 1 buck.
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender
 |:----------|:-------|:-------|:-------
 |D1722345|Shady Valley Dancy|2015-03-20|Doe
-|D1671696|The Critter Grove Coco|2014-01-03|Doe
 |D1720517|Shady Valley Fawn|2015-03-18|Doe
 |D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck
 
 
-### Group 2 - $1100.00
+### Group 2 - $900.00
 
-This group just includes 4 does including 3 half sisters.
+This group just includes 3 does including 2 half sisters.
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender
 |:----------|:-------|:-------|:--------
 |D1691523|Critter Grove Evening Shade|2014-01-01|Doe
 |D1630033|RHV RR D'arcy|2013-03-18|Doe
 |D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe
-|D1671697|The Critter Grove Bitsy|2014-01-05|Doe
 
 ### Pregnacy 
 
