@@ -13,7 +13,7 @@ tag: Dragonfly_T_Vermeil
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|$400.000(Deposit Pending)
+|**For Sale:**|$400.000(Deposit Received)
 |**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001547724)
 
 ### Description

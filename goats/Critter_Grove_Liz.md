@@ -12,7 +12,7 @@ group: goats
 |**Color Description:**|Brown and Black Buckskin
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|$350.000(Deposit Pending)
+|**For Sale:**|$350.000(Deposit Received)
 |**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001671698)
 ### Description
 

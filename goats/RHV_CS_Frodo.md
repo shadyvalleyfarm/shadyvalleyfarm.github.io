@@ -13,7 +13,7 @@ tag: RHV_CS_Frodo
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Buck
-|**For Sale:**|$500.000(Deposit Pending)
+|**For Sale:**|$500.000(Deposit Received)
 |**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001687189)
 
 ### Description

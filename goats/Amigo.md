@@ -13,7 +13,7 @@ tag: Amigo
 |**Color Description:**|Brown with moonspots
 |**Registered:**|No
 |**Gender:**|Wether
-|**For Sale:**|$100.00(Deposit Pending)
+|**For Sale:**|$100.00(Deposit Received)
 
 ### Description
 
