@@ -33,7 +33,7 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 
 The goats remaining without a deposit may be purchased together for $1600.00 or see the groups of 4 below or inquire about sales of 1 or 2 together.
 
-Depsoit Pending means that I have sent an agreement to prospective buyers who have indicated they will purchase, however, no deposit or signed agreement has been received by me. I'll take backup
+Deposit Pending means that I have sent an agreement to prospective buyers who have indicated they will purchase, however, no deposit or signed agreement has been received by me. I'll take backup
 sales in case those buyers back out or if they delay too long. 
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender|Price
@@ -92,7 +92,7 @@ All pregnant does are reserved.
 
 # Individual Sales
 
-I am beginning to accept requests for individual goats, however, I'll give preference to group purchses.  I won't sell a goat to live alone. Goats need companionship of other goats in order to be happy. There is
+I am beginning to accept requests for individual goats, however, I'll give preference to group purchases.  I won't sell a goat to live alone. Goats need companionship of other goats in order to be happy. There is
 an old saying "A lonely goat is a dead goat."   Wethers make great pets and are better pets than does. Please consider this when asking about does as pets.  Multiple purchase discounts will be applied.
 
 Please keep in mind that my goal is to sell the entire herd before the end of February. I have some individual goats who I get constant requests for and others with very little interest. If you're willing to take a low interest goat (such 
