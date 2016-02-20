@@ -13,7 +13,7 @@ tag: RHV_CS_Dust_O_Gold
 |**Eye Color:**|Brown
 |**Registered:**|ADGA, AGS
 |**Gender:**|Doe
-|**For Sale:**|$450.00(Deposit Received)
+|**For Sale:**|$450.00(Sold)
 |**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001682628)
 
 ### Description
