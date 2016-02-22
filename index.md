@@ -31,7 +31,7 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 
 ## Entire Herd Package
 
-Updated February 22, 2016 - Theg 6 oats remaining without a deposit or sold may be purchased together for $1600.00 or see the groups of 3 below or inquire about sales of 1 or 2 together.
+Updated February 22, 2016 - The 6 goats remaining without a deposit or sold may be purchased together for $1600.00 or see the groups of 3 below or inquire about sales of 1 or 2 together.
 
 Deposit Pending means that I have sent an agreement to prospective buyers who have indicated they will purchase, however, no deposit or signed agreement has been received by me. I'll take backup
 sales in case those buyers back out or if they delay too long.  Deposit Received means I have received a deposit but the sale has not been completed. It is possible, however unlikely, that the sale
