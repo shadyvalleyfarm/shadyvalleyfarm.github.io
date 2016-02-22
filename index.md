@@ -31,7 +31,7 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 
 ## Entire Herd Package
 
-The goats remaining without a deposit may be purchased together for $1600.00 or see the groups of 4 below or inquire about sales of 1 or 2 together.
+Updated February 22, 2016 - The goats remaining without a deposit may be purchased together for $1600.00 or see the groups of 4 below or inquire about sales of 1 or 2 together.
 
 Deposit Pending means that I have sent an agreement to prospective buyers who have indicated they will purchase, however, no deposit or signed agreement has been received by me. I'll take backup
 sales in case those buyers back out or if they delay too long. 
