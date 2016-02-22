@@ -31,10 +31,11 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 
 ## Entire Herd Package
 
-Updated February 22, 2016 - The goats remaining without a deposit may be purchased together for $1600.00 or see the groups of 4 below or inquire about sales of 1 or 2 together.
+Updated February 22, 2016 - Theg 6 oats remaining without a deposit or sold may be purchased together for $1600.00 or see the groups of 3 below or inquire about sales of 1 or 2 together.
 
 Deposit Pending means that I have sent an agreement to prospective buyers who have indicated they will purchase, however, no deposit or signed agreement has been received by me. I'll take backup
-sales in case those buyers back out or if they delay too long. 
+sales in case those buyers back out or if they delay too long.  Deposit Received means I have received a deposit but the sale has not been completed. It is possible, however unlikely, that the sale
+could fall through. If you're interested in any marked as Deposit Received you're welcome to contact me to be contacted if the sale doesn't complete.
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender|Price
 |:----------|:-------|:-------|:-------|:-------|:-------
@@ -44,26 +45,27 @@ sales in case those buyers back out or if they delay too long.
 |D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|$350.00
 |D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00
 |D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00
-|D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00(Sold)
-|D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00(Sold)
 |D1687102|Shady Valley Babs|2014-04-24|Doe|$400.00(Deposit Received)
 |D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00(Deposit Received)
-|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00(Sold)
 |D1687189|RHV CS Frodo|2014-04-13|Buck|$500(Deposit Received)
 |D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00(Deposit Received)
 |D1547724|Dragonfly T Vermeil|2011-03-15|Doe|$400.00(Deposit Received)
 |D1540007|Dragonfly Shauna|2010-03-10|Doe|$400.00(Deposit Received)
-|D1630035|RHV Mizzou Mystique|2013-03-19|Buck|$1000.00(Sold)
 | |Shady Valley Roger |2014-04-24|Wether|$100.00(Deposit Received)
 | |Shady Valley Buster|2014-04-24|Wether|$100.00(Deposit Received)
 | |Shady Valley Baxter|2015-04-18|Wether|$100.00(Deposit Received)
 | |Amigo|2013-03-17|Wether|$100.00(Deposit Received)
 | |Buddy|2013-05-29|Wether|$100.00(Deposit Received)
+|D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00(Sold)
+|D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00(Sold)
+|D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00(Sold)
+|D1630035|RHV Mizzou Mystique|2013-03-19|Buck|$1000.00(Sold)
+
 
 ## Select Groups
 
 I'm grouping together smaller groups of goats. These groups are discounted.  I would consider swapping around some goats in these groups, however, the reason I'm selling is because
-I can not keep them I will not put myself in a situation to end up with one or two goats who can't be sold. So please keep this in mind when inquiring. 
+I can not keep them I will not put myself in a situation to end up with one or two goats who can't be sold in a timely manner. So please keep this in mind when inquiring. 
 
 ### Group 1 - $900.00
 
