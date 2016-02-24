@@ -110,6 +110,8 @@ All goats are due for CD&T shots in March 2016. Hooves were trimmed in December 
 
 When inquiring about group pricing please be sure to include names of the goats you are interested in. 
 
+Expect a couple days response if you will only discuss via phome. I don't have cell phone service at the farm and it is difficult to make time to go somewhere to sit and just talk on the phone.
+
 <form action="http://formspree.io/wes0209@yahoo.com" method="POST">
   <p>Email:&nbsp;&nbsp;&nbsp; <input type="email" name="_replyto"></p>
   <p>Message: <textarea name="body" cols='50' rows='15'></textarea></p>
