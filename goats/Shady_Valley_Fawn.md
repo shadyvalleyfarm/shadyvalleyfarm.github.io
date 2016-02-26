@@ -10,7 +10,7 @@ group: goats
 |**Date of Birth:**|March 18, 2015
 |**Eye Color:**|Brown
 |**Color Description:**|White Buckskin
-|**Registered:**|ADGA, AGS
+|**Registered:**|ADGA
 |**Gender:**|Doe
 |**For Sale:**|$400.00
 |**ADGA Genetics Profile:**|[Click Here](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=D001720517)
