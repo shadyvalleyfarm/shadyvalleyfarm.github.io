@@ -31,7 +31,7 @@ Goats are dual ADGA and AGS registered/registerable (except wethers). Only ADGA 
 
 ## Entire Herd Package
 
-February 25, 2016 - As of right now all goats are sold, Deposit Pending, or Deposit Received.  Except for sold goats I'll accept backup offers just in case those sales fall through.
+March 29, 2016 - I have 6 goats remaining. 1 doe, 1 buck, and 4 wethers. I'm willing to sell these 6 for a total of $600.00 as a package.
 
 Deposit Pending means that I have sent an agreement to prospective buyers who have indicated they will purchase, however, no deposit or signed agreement has been received by me. I'll take backup
 sales in case those buyers back out or if they delay too long.  Deposit Received means I have received a deposit but the sale has not been completed. It is possible, however unlikely, that the sale
@@ -39,27 +39,27 @@ could fall through. If you're interested in any marked as Deposit Received you'r
 
 |Number|ADGA_Registered_Name|Date_Of_birth|Gender|Price
 |:----------|:-------|:-------|:-------|:-------|:-------
-|D1722345|Shady Valley Dancy|2015-03-20|Doe|$400.00(Deposit Pending)
-|D1720517|Shady Valley Fawn|2015-03-18|Doe|$400.00(Deposit Pending)
-|D1691523|Critter Grove Evening Shade|2014-01-01|Doe|$350.00(Deposit Pending)
-|D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|$350.00(Deposit Pending)
-|D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00(Sold)
-|D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00(Deposit Pending)
+|D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00
+|D1687189|RHV CS Frodo|2014-04-13|Buck|$500
+| |Shady Valley Roger |2014-04-24|Wether|$100.00
+| |Shady Valley Buster|2014-04-24|Wether|$100.00
+| |Shady Valley Baxter|2015-04-18|Wether|$100.00
+| |Buddy|2013-05-29|Wether|$100.00
 |D1687102|Shady Valley Babs|2014-04-24|Doe|$400.00(Deposit Received)
-|D1671698|The Critter Grove Liz|2014-01-05|Doe|$350.00(Deposit Received)
-|D1687189|RHV CS Frodo|2014-04-13|Buck|$500(Deposit Received)
 |D1637828|RHV SCHR Hope on a Rope|2013-04-30|Doe|$450.00(Deposit Received)
 |D1547724|Dragonfly T Vermeil|2011-03-15|Doe|$400.00(Deposit Received)
 |D1540007|Dragonfly Shauna|2010-03-10|Doe|$400.00(Deposit Received)
-| |Shady Valley Roger |2014-04-24|Wether|$100.00(Deposit Received)
-| |Shady Valley Buster|2014-04-24|Wether|$100.00(Deposit Received)
-| |Shady Valley Baxter|2015-04-18|Wether|$100.00(Deposit Received)
-| |Amigo|2013-03-17|Wether|$100.00(Deposit Received)
-| |Buddy|2013-05-29|Wether|$100.00(Deposit Received)
+|D1630033|RHV RR D'arcy|2013-03-18|Doe|$450.00(Sold)
+|D1722345|Shady Valley Dancy|2015-03-20|Doe|$400.00(Sold)
+|D1720517|Shady Valley Fawn|2015-03-18|Doe|$400.00(Sold)
+|D1691523|Critter Grove Evening Shade|2014-01-01|Doe|$350.00(Sold)
+|D1668246|AGS Critter Grove Sweet Pea|2012-12-10|Doe|$350.00(Sold)
 |D1671697|The Critter Grove Bitsy|2014-01-05|Doe|$350.00(Sold)
 |D1671696|The Critter Grove Coco|2014-01-03|Doe|$350.00(Sold)
 |D1682628|RHV CS Dust O'Gold|2014-03-21|Doe|$450.00(Sold)
+|D1566378|Dragonfly IH Perfect Storm|2010-08-02|Buck|$500.00(Sold)
 |D1630035|RHV Mizzou Mystique|2013-03-19|Buck|$1000.00(Sold)
+| |Amigo|2013-03-17|Wether|$100.00(Sold)
 
 
 ### Pregnacy 
